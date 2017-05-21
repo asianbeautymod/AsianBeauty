@@ -5,10 +5,10 @@
 .author[href$="/AutoModerator"]:after{color: #9b59b6 !important; content: " Oshawott's Bot"}
 .author[href$="/biibiibeauty"]:after{color: #2c3e50 !important; content: " Wishtrend - Social Media Design"}
 .author[href$="/mishibox"]:after{color: #2c3e50 !important; content: " MISHIBOX Representative"}
-.author[href$="/ellumina"]:after{color: #9b59b6 !important; content: " Mod"}
+.author[href$="/ellumina"]:after{color: #9b59b6 !important; content: " Mod [currently on hiatus]"}
 .author[href$="/ashlaboo"]:after{color: #9b59b6 !important; content: " a wild modboo (•ㅅ•❀)"}
-.author[href$="/Ronrinesu"]:after{color: #9b59b6 !important; content: " Tomato Cheeks Flair Fairy"}
-.author[href$="/kstoops2conquer"]:after{color: #9b59b6 !important; content: " Friendly Grump"}
+.author[href$="/Ronrinesu"]:after{color: #9b59b6 !important; content: " Bird person / Bio nerd"}
+.author[href$="/kstoops2conquer"]:after{color: #9b59b6 !important; content: " Friendly Grump [currently on hiatus]"}
 .author[href$="/kitty_paw"]:after{color: #9b59b6 !important; content: " Lurking Around"}
 .author[href$="/AsianBeautyMod"]:after{color: #9b59b6 !important; content: " ~*~ umbrella mod account~*~ "}
 .author[href$="/petitoignon"]:after{color: #9b59b6 !important; content: " Casual AB Evangelist"}
@@ -235,7 +235,7 @@ text-transform: uppercase;
 div#header-bottom-left ul.tabmenu{
 position: absolute;
 bottom: 6px;
-left: 75px;
+left: 120px;
 text-transform: uppercase;
 font-size: 10px;
 }
@@ -405,7 +405,7 @@ margin: 0 0 3px 0
 /***********LINK FLAIR***********/
 
 .linkflairlabel { margin-right: 0; padding: 0; }
-.linkflair-mod-post .title .linkflairlabel, .linkflair-review .title .linkflairlabel, .linkflair-PSA .title .linkflairlabel, .linkflair-the-more-you-know .title .linkflairlabel, .linkflair-question .title .linkflairlabel, .linkflair-swatches-fotd .title .linkflairlabel, .linkflair-hauls .title .linkflairlabel, .linkflair-fluff .title .linkflairlabel, .linkflair-discussion .title .linkflairlabel, .linkflair-business .title .linkflairlabel , .linkflair-glamday .title .linkflairlabel , .linkflair-discovery .title .linkflairlabel , .linkflair-roundup .title .linkflairlabel , .linkflair-deals .title .linkflairlabel , .linkflair-meetups .title .linkflairlabel , .linkflair-journal .title .linkflairlabel {
+.linkflair-mod-post .title .linkflairlabel, .linkflair-review .title .linkflairlabel, .linkflair-the-more-you-know .title .linkflairlabel, .linkflair-question .title .linkflairlabel, .linkflair-swatches .title .linkflairlabel, .linkflair-hauls .title .linkflairlabel, .linkflair-fluff .title .linkflairlabel, .linkflair-discussion .title .linkflairlabel, .linkflair-business .title .linkflairlabel , .linkflair-glamday .title .linkflairlabel , .linkflair-discovery .title .linkflairlabel , .linkflair-roundup .title .linkflairlabel , .linkflair-deals .title .linkflairlabel , .linkflair-meetups .title .linkflairlabel , .linkflair-journal .title .linkflairlabel {
 
 position: absolute;
 top: 0;
@@ -425,9 +425,8 @@ transition: all .3s ease;
 
 .linkflair-mod-post .title .linkflairlabel { background: #f6b9bc; }
 .linkflair-review .title .linkflairlabel { background: #99e3eb; }
-.linkflair-PSA .title .linkflairlabel { background: #fac49a; }
 .linkflair-question .title .linkflairlabel { background: #d0c0d5; }
-.linkflair-swatches-fotd .title .linkflairlabel { background: #fce9b4; }
+.linkflair-swatches .title .linkflairlabel { background: #fce9b4; }
 .linkflair-hauls .title .linkflairlabel { background: #31a081 }
 .linkflair-fluff .title .linkflairlabel { background: #b1e1c5; }
 .linkflair-discussion .title .linkflairlabel { background: #f8c5c8; }
@@ -441,9 +440,8 @@ transition: all .3s ease;
 
 .listing-page .linkflair-mod-post:hover .title .linkflairlabel { background: #e21720; }
 .listing-page .linkflair-review:hover .title .linkflairlabel { background: #00B9CE; }
-.listing-page .linkflair-PSA:hover .title .linkflairlabel { background: #f68b39; }
 .listing-page .linkflair-question:hover .title .linkflairlabel { background: #b196b9; }
-.listing-page .linkflair-swatches-fotd:hover .title .linkflairlabel { background: #f8b608; }
+.listing-page .linkflair-swatches:hover .title .linkflairlabel { background: #f8b608; }
 .listing-page .linkflair-hauls:hover .title .linkflairlabel { background: #31a081; }
 .listing-page .linkflair-fluff:hover .title .linkflairlabel { background: #7dce9f; }
 .listing-page .linkflair-discussion:hover .title .linkflairlabel { background: #f18c92 }
@@ -455,7 +453,7 @@ transition: all .3s ease;
 .listing-page .linkflair-meetups:hover .title .linkflairlabel { background: #3333ff; }
 .listing-page .linkflair-journal:hover .title .linkflairlabel { background: #751aff; }
 
-.linkflair-mod-post .buttons:before, .linkflair-review .buttons:before, .linkflair-PSA .buttons:before, .linkflair-question .buttons:before, .linkflair-swatches-fotd .buttons:before, .linkflair-hauls .buttons:before, .linkflair-fluff .buttons:before, .linkflair-discussion .buttons:before, .linkflair-business .buttons:before , .linkflair-glamday .buttons:before , .linkflair-discovery .buttons:before , .linkflair-roundup .buttons:before , .linkflair-deals .buttons:before , .linkflair-meetups .buttons:before , .linkflair-journal .buttons:before {
+.linkflair-mod-post .buttons:before, .linkflair-review .buttons:before, .linkflair-question .buttons:before, .linkflair-swatches .buttons:before, .linkflair-hauls .buttons:before, .linkflair-fluff .buttons:before, .linkflair-discussion .buttons:before, .linkflair-business .buttons:before , .linkflair-glamday .buttons:before , .linkflair-discovery .buttons:before , .linkflair-roundup .buttons:before , .linkflair-deals .buttons:before , .linkflair-meetups .buttons:before , .linkflair-journal .buttons:before {
 display: inline-block;
 padding: 1px 10px;
 color: #fff;
@@ -466,10 +464,9 @@ font-size: 85%;
 
 .linkflair-mod-post .buttons:before { content: 'mod post'; background: #e21720; }
 .linkflair-review .buttons:before { content: 'review'; background: #00B9CE; }
-.linkflair-PSA .buttons:before { content: 'PSA'; background: #f68b39; }
 .linkflair-question .buttons:before { content: 'question'; background: #b196b9; }
-.linkflair-swatches-fotd .buttons:before { content: 'swatches & FOTD'; background: #f8b608; }
-.linkflair-hauls .buttons:before { content: 'Hauls'; background: #31a081; }
+.linkflair-swatches .buttons:before { content: 'swatches'; background: #f8b608; }
+.linkflair-hauls .buttons:before { content: 'hauls'; background: #31a081; }
 .linkflair-fluff .buttons:before { content: 'fluff'; background: #7dce9f; }
 .linkflair-discussion .buttons:before { content: 'discussion'; background: #f18c92; }
 .linkflair-business .buttons:before { content: 'business'; background: #D07FB1; }
@@ -482,9 +479,8 @@ font-size: 85%;
 
 .linkflair-mod-post .linkflairlabel { background: #e21720; color: #fff; }
 .linkflair-review .linkflairlabel { background: #00B9CE; color: #fff; }
-.linkflair-PSA .linkflairlabel { background: #f68b39; color: #fff; }
 .linkflair-question .linkflairlabel { background: #b196b9; color: #fff; }
-.linkflair-swatches-fotd .linkflairlabel { background: #f8b608; color: #fff; }
+.linkflair-swatches .linkflairlabel { background: #f8b608; color: #fff; }
 .linkflair-Hauls .linkflairlabel { background: #31a081; color: #fff; }
 .linkflair-fluff .linkflairlabel { background: #7dce9f; color: #fff; }
 .linkflair-discussion .linkflairlabel { background: #f18c92; color: #fff; }
@@ -498,7 +494,7 @@ font-size: 85%;
 
 .flairselector .title:before { display: none; }
 
-.comments-page .linkflair-mod-post .title .linkflairlabel, .comments-page .linkflair-review .title .linkflairlabel, .comments-page .linkflair-PSA .title .linkflairlabel, .comments-page .comments-page .linkflair-question .title .linkflairlabel, .comments-page .linkflair-swatches-fotd.title .linkflairlabel, .comments-page .linkflair-hauls .title .linkflairlabel, .comments-page .linkflair-fluff .title .linkflairlabel, .comments-page .linkflair-discussion .title .linkflairlabel, .comments-page .linkflair-business .title .linkflairlabel , .comments-page .linkflair-glamday .title .linkflairlabel, .comments-page .linkflair-discovery .title .linkflairlabel, .comments-page .linkflair-roundup .title .linkflairlabel, .comments-page .linkflair-deals .title .linkflairlabel, .comments-page .linkflair-meetups .title .linkflairlabel, .comments-page .linkflair-journal .title .linkflairlabel{
+.comments-page .linkflair-mod-post .title .linkflairlabel, .comments-page .linkflair-review .title .linkflairlabel, .comments-page .comments-page .linkflair-question .title .linkflairlabel, .comments-page .linkflair-swatches.title .linkflairlabel, .comments-page .linkflair-hauls .title .linkflairlabel, .comments-page .linkflair-fluff .title .linkflairlabel, .comments-page .linkflair-discussion .title .linkflairlabel, .comments-page .linkflair-business .title .linkflairlabel , .comments-page .linkflair-glamday .title .linkflairlabel, .comments-page .linkflair-discovery .title .linkflairlabel, .comments-page .linkflair-roundup .title .linkflairlabel, .comments-page .linkflair-deals .title .linkflairlabel, .comments-page .linkflair-meetups .title .linkflairlabel, .comments-page .linkflair-journal .title .linkflairlabel{
 left: 0px;
 }
 
@@ -509,28 +505,20 @@ left: 0px;
 
 html:lang(qu) .linkflair-question {
 display: none    }
-html:lang(sw) .linkflair-swatches-fotd {
-display: none    }
-html:lang(ha) .linkflair-hauls {
+html:lang(sw) .linkflair-swatches {
 display: none    }
 html:lang(bs) .linkflair-business {
 display: none    }
-html:lang(gl) .linkflair-glamday {
-display: none    }
 html:lang(di) .linkflair-discovery {
-display: none    }
-html:lang(ro) .linkflair-roundup {
-display: none    }
-html:lang(ro) .linkflair-deals {
 display: none    }
 html:lang(ro) .linkflair-meetups {
 display: none    }
 html:lang(ro) .linkflair-journal {
 display: none    }
-html:lang(al) .linkflair-question, html:lang(al) .linkflair-swatches-fotd, html:lang(al) .linkflair-hauls, html:lang(al) .linkflair-business, html:lang(al) .linkflair-fluff {
+html:lang(al) .linkflair-question, html:lang(al) .linkflair-swatches, html:lang(al) .linkflair-hauls, html:lang(al) .linkflair-business, html:lang(al) .linkflair-fluff {
 display: none    }
 
-.side a[href*='mod-post'], .side a[href*='review'], .side a[href*='psa'], .side a[href*='question'], .side a[href*='swatches-fotd'], .side a[href*='hauls'], .side a[href*='discussion'], .side a[href*='business'], .side a[href*='fluff'], .side a[href*='glamday'], .side a[href*='discovery'], .side a[href*='roundup'], .side a[href*='deals'], .side a[href*='meetups'], .side a[href*='journal'], .side a[href="http://goo.gl/9jxY49"], a[href*='#mp'], .side a[href*='#re'], .side a[href*='#ps'], .side a[href*='#qu'], .side a[href*='#sw'], .side a[href*='#ha'], .side a[href*='#di'], .side a[href*='#mp'], .side a[href*='#bs'], .side a[href*='#fl'], .side a[href*='#al']{
+.side a[href*='mod-post'], .side a[href*='review'], .side a[href*='question'], .side a[href*='swatches'], .side a[href*='discussion'], .side a[href*='business'], .side a[href*='fluff'], .side a[href*='discovery'], .side a[href*='meetups'], .side a[href*='journal'], a[href*='#mp'], .side a[href*='#re'], .side a[href*='#ps'], .side a[href*='#qu'], .side a[href*='#sw'], .side a[href*='#ha'], .side a[href*='#di'], .side a[href*='#mp'], .side a[href*='#bs'], .side a[href*='#fl'], .side a[href*='#al'], .side a[href="http://goo.gl/9jxY49"]{
 display: inline-block;
 position: relative;
 width: 92px;
@@ -543,17 +531,11 @@ background: #bdc3c7;
 
 .side a[href*='mod-post'] { margin: 0 0 5px 30px; background: #e21720; }
 .side a[href*='review'] { margin: 0 0 5px 10px; background: #00b9ce; }
-.side a[href*='psa'] { margin: 0 0 5px 30px; background: #f68b39; }
-.side a[href*='question'] { margin: 0 0 5px 10px; background: #b196b9; }
-.side a[href*='swatches-fotd'] { margin: 0 0 5px 30px; background: #f1c40f; }
-.side a[href*='hauls'] { margin: 0 0 5px 10px; background: #31a081; }
+.side a[href*='question'] { margin: 0 0 5px 30px; background: #b196b9; }
+.side a[href*='swatches'] { margin: 0 0 5px 10px; background: #f1c40f; }
 .side a[href*='discussion'] { margin: 0 0 5px 30px; background: #f18c92; }
 .side a[href*='business'] { margin: 0 0 5px 10px; background: #d07fb1; }
-.side a[href*='fluff'] { margin: 0 0 5px 30px; background: #7dce9f; }
-.side a[href*='glamday'] { margin: 0 0 5px 10px; background: #cc99ff; }
 .side a[href*='discovery'] { margin: 0 0 5px 30px; background: #4dffc3; }
-.side a[href*='roundup'] { margin: 0 0 5px 10px; background: #99ccff; }
-.side a[href*='deals'] { margin: 0 0 5px 30px; background: #ff0066; }
 .side a[href*='meetups'] { margin: 0 0 5px 10px; background: #3333ff; }
 .side a[href*='journal'] { margin: 0 0 5px 30px; background: #751aff; }
 .side a[href='http://goo.gl/9jxY49'] { margin:0 0 5px 10px; background: #bdc3c7; }

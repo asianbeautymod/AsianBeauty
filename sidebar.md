@@ -52,24 +52,18 @@ We actively recruit people from diverse time zones and backgrounds, who have goo
 ##Filter Posts
 [MOD POST](https://www.reddit.com/r/AsianBeauty/search?q=+flair:mod-post&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [REVIEW](https://www.reddit.com/r/AsianBeauty/search?q=+flair:review&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[PSA](https://www.reddit.com/r/AsianBeauty/search?q=+flair:psa&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [QUESTION](https://www.reddit.com/r/AsianBeauty/search?q=+flair:question&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[SWATCHES & FOTD](https://www.reddit.com/r/AsianBeauty/search?q=+flair:swatches-fotd&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[HAULS](https://www.reddit.com/r/AsianBeauty/search?q=+flair:hauls&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[SWATCHES](https://www.reddit.com/r/AsianBeauty/search?q=+flair:swatches&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [DISCUSSION](https://www.reddit.com/r/AsianBeauty/search?q=+flair:discussion&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [BUSINESS](https://www.reddit.com/r/AsianBeauty/search?q=+flair:business&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[FLUFF](https://www.reddit.com/r/AsianBeauty/search?q=+flair:fluff&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[GLAMDAY](https://www.reddit.com/r/AsianBeauty/search?q=+flair:glamday&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [DISCOVERY](https://www.reddit.com/r/AsianBeauty/search?q=+flair:discovery&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[WEEKLY ROUNDUP](https://www.reddit.com/r/AsianBeauty/search?q=+roundup:roundup&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[DEALS](https://www.reddit.com/r/AsianBeauty/search?q=+flair:deals&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [MEETUPS](https://www.reddit.com/r/AsianBeauty/search?q=+meetups:meetups&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [JOURNAL](https://www.reddit.com/r/AsianBeauty/search?q=+flair:journal&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [SHOW ALL](http://goo.gl/9jxY49)
 
 ##Filter-Out Posts
 [QUESTION](http://qu.reddit.com/r/AsianBeauty/#qu)
-[SWATCHES & FOTD](http://sw.reddit.com/r/AsianBeauty/#sw)
+[SWATCHES](http://sw.reddit.com/r/AsianBeauty/#sw)
 [HAULS](http://ha.reddit.com/r/AsianBeauty/#ha)
 [BUSINESS](http://rq.reddit.com/r/AsianBeauty/#bs)
 [FLUFF](http://fl.reddit.com/r/AsianBeauty/#fl)
@@ -87,19 +81,38 @@ We actively recruit people from diverse time zones and backgrounds, who have goo
 
 
 ##Posting Schedule
-**Daily** - Routine Help & Troubleshooting
+Each post starts at 00:00 EST
 
 **Monday** - Glamday: FOTD/Selfies (all)
 
+**Monday** - Weekly Deals
+
 **Tuesday** - Discovery Tuesday: New finds, discoveries
 
-**Wednesday** - Hump-Day: Hauls & Destashing
+**Tuesday** - Unique Discussion (new topic every week)
 
-**Thursday** - Unique Discussion
+**Wednesday** - Hump-Day Hauls
 
-**Friday** - Weekly Roundup; top posts and comments of the week
+**Wednesday** - Wednesday Help Thread
 
-**Saturday & Sunday** - Rant, Raves, and Mini Reviews
+
+**Thursday** - Unique Discussion (new topic every week)
+
+**Thursday** - Best/Worst posted every other week by /u/maplebee92
+
+**Thursday** - Mod-led Discussion every other week
+
+**Friday** - Open
+
+**Friday** - Random Chat
+
+**Saturday** - Rant, Raves, and Mini Reviews
+
+**Saturday** - Random Chat
+
+**Sunday** - Sunday Funday
+
+**Sunday** - Weekly Roundup; top posts and comments of the week
 
 ***
 

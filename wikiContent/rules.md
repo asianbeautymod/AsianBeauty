@@ -12,6 +12,69 @@ Just as important as the kind and welcoming aspect of the community, is the open
 
 We accept that this is somewhat strange and may create confusion sometimes, or even friction. For that reason we have written our rules to help clarify. We think the results of this sub philosophy are worth it and we are glad to have you here. Thank you for reading!
 ***
+# **Subreddit Rules and Guidelines**
+
+Violating any of the following rules may result in warnings, post removals, a temporary 30 day ban, a temporary 60 day ban, or (in rare cases) longer or permanent bans. Bans and warnings are issued on a case-by-case basis; this varies based on the type and severity of the offense. Unless the account we are removing is an obvious spam/troll/throwaway account (e.g. recently created, used primarily to spam/troll the sub), we always issue at least one warning before banning someone, as we understand mistakes happen.
+
+Mods will usually issue comments, PMs, or both upon post removal. We regret that sometimes it will not be possible to do so when there is a high volume of rule-breaking posts.
+
+If you believe a post was removed by mistake, [please PM the moderators](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)
+
+
+
+
+
+#**Rules:**
+
+**Users of the /r/asianbeauty subreddit should not:**
+
+1. Distribute personal information (Doxxing). This includes posting names, addresses, phone numbers or links to websites that provide personal information (e.g. Facebook).
+2. Harass, stalk or threaten others, regardless of whether it is in public or private messages.
+3. Post spam (please read [this reddit wiki](http://www.reddit.com/wiki/faq) and [link to ab spam explanation] for more information of what constitutes spam)
+4. Post hate speech. This includes but is not limited to racism, sexism, transphobia, fat-shaming, and homophobia.
+5. Engage in vote manipulation, such as cross-subreddit brigading or paying for upvotes.
+6. Break subreddit code (deleting your own posts is not against the rules).
+7. Exhibit disruptive behavior, including but not limited to:
+
+	7a. Unsolicited comments on someone's sexiness/sexual desirability
+	7b. Criticising someone’s appearance (unless with explicit permission from the person being criticised)
+	7c. Name-calling
+	7d. Trolling or bullying
+	7e. Creating or inciting drama, e.g. spreading false rumours, linking to drama/CJ subs or creating “callout” posts - if you have any concerns, please PM the mods first.
+	7f. Raging at people
+	7g. Correcting grammar without being asked to or making fun of someone’s English
+	7h. Derailing threads
+
+Repeated bad conduct will not be tolerated.
+
+**Links and other content:**
+
+8. Affiliated Links or Referral Links must be **fully disclosed** within the title of an external link, or if a text post, fully disclosed in the text.
+
+	1a.  Likewise, all discount/freebie-for-review relationships with must be disclosed.
+9. ALL external links including Imgur links MUST contain a comment adequately describing the content of the link. This comment must be posted within 15 minutes or the link will be removed. This way you will not be mistaken for spam. This also assists our friends accessing Reddit via mobile.
+10. All haul posts must have a list of the products shown in the pictures and be posted in the designated Hump-day Haul thread on Wednesdays.
+11. All FOTDs must be posted in the designated Glamday thread on Mondays, and must contain a list of products used (makeup and/or routine, as relevant). This list is enough to fulfill the requirement in rule 9.
+12. All memes and fluff posts must be posted in the designated Fluff thread on Sundays.
+13. All questions regarding personal questions and requests must go in the Wednesday Help Thread. For more info about WHT read our Post Guidelines [link]
+
+
+
+##Good reasons to use PMs (Private Messages)
+
+1. Willingly sharing your own personal info: phone numbers, addresses, Paypal accounts, Facebook accounts, etc.
+2. Sensitive topic communication
+3. You want to [ask the mods a question](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)
+
+## When to Report
+We understand that when you have a passion for something, things can occasionally get heated. However, there is no excuse for abusive behavior in this subreddit. Please make a report (and list the reason) when you see the following:
+
+1. Harassment, stalking, or threats in public or private
+2. Suspected spam postings
+3. Rules violations
+4. Hate speech, including homophobia, racism, sexism, transphobia, etc
+5. Double posts
+6. Dead links
 
 #**Community Conduct**
 
@@ -22,7 +85,7 @@ We accept that this is somewhat strange and may create confusion sometimes, or e
 4. Ask questions
 5. Remember that we are all races, genders, ages, nationalities, sexualities, and be respectful of others’ backgrounds
 6. Report rules violations (and include the reason for the report)
-7. Exhibit courtesy and respect
+7. Be courteous and respectful
 8. Assume the best in others
 
 ##Be a great community member
@@ -31,96 +94,33 @@ We accept that this is somewhat strange and may create confusion sometimes, or e
 3. Be patient with each other in tough discussions
 4. Add value to posts with research or details
 5. Think of the other person behind the screen
-6. Ask questions when it normally would be hard, or weird to do so:
-    * A person seems "stupid", "rude", "wrong"
-    * You are confused
-    * You are disagreed with
-7. Make cool fanart of sub Mascots
-8. Make a FOTD, fashion, hair, or nails post
+6. Ask questions wheneve you:
+    * Think a person seems "stupid", "rude", "wrong"
+    * Are confused
+    * Are disagreed with
+7. Test out something and tell us how it went
+8. Make a fashion, hair, or nails post
 9. Write a Tutorial or a Guide
-10. Answer unanswered questions in the Daily Help Thread
-11. Flair your own posts
-12. Welcome a newbie (first posters especially)
+10. Answer unanswered questions in the Wednesday Help Thread
+11. Use Flair tags when posting, eg: [Discussion]
+12. Be welcoming to newcomers and first-time posters
 13. Comment on a post that has no comments
 14. Learn a lot about something and share what you learned
 15. PM if you have a sensitive thing to say
-16. Reward what you want to see; upvote or comment on posts you like
+16. Upvote or comment on posts you like; scroll past the ones you don’t
 17. Be what you want to see in the community
 18. What's on your mind? Talk to the mods
-19. Share your experiences
+19. Share your experiences (trip reports, guides, etc.)
 20. Ask before offering unsolicited criticism
 21. Offer solutions instead of negativity
 
 
-
-
-##Bad conduct
-1. Raging at people
-2. Commenting on someone's sexiness/sexual desirability without being asked
-3. Correcting grammar, or making fun of people's English mistakes
-4. Punishing people (please report rules violations)
-5. Downvote brigading
-6. Telling someone they are stupid, ugly, lazy, etc.
-7. Rudeness and condescending behavior
-8. Creating/perpetuating rumors, suspicion, gossip
-9. Commenting only to complain about problems or criticize
-10. Treating others as your enemy/adversary
-
-##Good reasons to use PMs (Private Messages)
-
-1. Personal info: phone numbers, addresses, Paypal accounts, Facebook accounts, etc.
-2. Sensitive topic communication
-3. You want to [ask the mods a question](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)
-4. Helping a newbie without embarrassing them or shaming them
-
-## When to Report
-Whether you're a long time member or a new face eagerly wanting to learn, please remember we are all here because of our mutual love of Asian beauty products. We understand that when you have a passion for something, things can occasionally get heated.  However, there is no excuse for abusive behavior in this subreddit. Please make a report (and list the reason) when you see the following:
-
-1. Harassment, stalking, or threats in public or private
-2. Suspected spam postings
-3. Rules violations
-4. Hate speech, including homophobia, racism, sexism, transphobia, etc
-5. Double posts
-6. Dead links
-
-***
-
-# **Rules and Guidelines**
-
-Violating any of the following rules may result in post removals, a temporary ban or warning, messages from the mods, or in rare cases, bans.
-
-
-## ALL users
-
-**Rules:**
-
-1. No distributing personal information.  This includes name, address, phone number or links to websites that provide that information (e.g. Facebook). This is a Reddit rule.
-2. No harassment, stalking or threats, regardless of whether it is in public or private messages.
-3. No spam (please read [this](http://www.reddit.com/wiki/faq) reddit wiki for more information of what constitutes spam).
-4. No hate speech. This includes but is not limited to racism, sexism and homophobia.
-5. No vote manipulation. Same examples are cross-subreddit brigading or paying for upvotes.
-6. Anyone who consistently exhibits disruptive behavior is not welcome.
-7. Affiliated Links or Referral Links must be **fully disclosed** within the title of an external link, or if a text post, fully disclosed in the text.
-7a.  Like wise all discount/freebie-for-review relationships with must be disclosed.
-8. ALL external links including Imgur links (even if they are not your own content) MUST contain a comment adequately describing the content of the link. This comment must be posted within 15 minutes or the link will be removed. We have no way of knowing whose content you are posting, and this way you will not be mistaken for spam. This also assists our friends accessing Reddit via mobile.
-9. Related to the above -- all haul posts must have a list of the products shown in the pictures; all FOTDs must have a list of products used (make-up and/or routine, as relevant). These lists alone can fulfill the above requirement (in rule 8) for these specific kind of posts. You do not have to list samples :)
-10. All Routine Help questions and individual recommendation requests must go in the Daily Help Thread.
-
-**Guidelines:**
-
- Violating any of the following guidelines may result in post removals, a temporary ban, or warning.
-
-* Most posts will be 100% relevant to Asian Beauty. Occasional submissions with culturally relevant content are okay if they benefit the community and are related to AB in some way.
-* Exhibit courtesy and respect. Insults, rudeness and condescending behavior are discouraged.
-* Be most excellent to each other.
-* Also see our "Community Conduct" section!
-
 ***
 
 ## Self-Promotion
-These rules apply to bloggers, youtubers, instagrammers, tweeters, or any personal project or research.
+These rules apply to bloggers, youtubers, instagrammers, tweeters, or to your personal project or research.
 
- [Read all about self-promotion rules here](https://www.reddit.com/r/AsianBeauty/wiki/edit/blogposts)
+ [Read all about self-promotion rules here](https://www.reddit.com/r/AsianBeauty/wiki/blogposts)
 
 
 ***
@@ -150,6 +150,7 @@ So please pay careful attention to the rest of these bullet points.
 * If people historically upvote your links or ones like them -- and we're talking about real people here, not sockpuppets or people you asked to go vote for you -- congratulations! It may not be spam! However, you still need to follow the guidelines for self promotion.
 * If nobody's submitted a link like yours before, [message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) about it. But don't flood the subreddit if you don't see it appear in the "new" tab. It may be caught in automod, and you can always ask the mods to check.
 * To play it safe if you're unsure, just [message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) and find out if your content would be appropriate. (We will appreciate the notice).
+* if a post is removed for not complying with other post/sub rules and is reposted by another user aka circumventing post rules will be marked as spam and not allowed
 
 **This sounds like a lot of work! I don't have the time to get to know Reddit and participate this way!**
 
@@ -157,7 +158,7 @@ You might want to buy a sponsored headline instead. You can spend as little as $
 
 **But it's not spam! I worked hard on that, I make no money from it, it's original content! I'm not a spammer!**
 
-We're not making a judgement on your quality, just your behavior on /r/asianbeauty. Your stuff's probably amazing and someone would be really interested in it, but if you submit mostly your own links and your presence on AB is mostly for your self-promotion of your brand, page, blog, app, or business, you are more likely to be a spammer than you think!
+We're not making a judgement on your quality, just your behavior on /r/asianbeauty. Your stuff's probably amazing and someone would be really interested in it, but if you submit mostly your own links and your presence on AB is mostly for your self-promotion of your brand, page, blog, app, or business, you are behaving in a way that will look like spam.
 
 ##Reporting
 The report button, shown on all links and comments, is an anonymous way for you to send feedback to the moderators that something is violating the rules. Always give a reason for your report, it might not be as obvious as you think. If your reason for reporting is time-sensitive, please leave a reply or send a private [message to the moderators](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) letting them know.
@@ -175,7 +176,7 @@ The mods may not have been able to deal with the post yet or the mods have deter
 Help make our community better by following these suggestions.
 
 1. If you see a user breaking the rules, please report it to the moderators by clicking the report button below their post or [send us a message](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) through the link on the sidebar.
-2. Refrain from responding to provocation, exchanging insults or otherwise escalating tension.
+2. Refrain from responding to provocation, exchanging insults, or otherwise escalating tension.
 3. Downvote posts and comments that are not constructive or do not contribute to the conversation. Don't downvote a comment an otherwise acceptable post or comment just because you disagree or wish to punish someone.
 
 ***
@@ -185,13 +186,14 @@ Help make our community better by following these suggestions.
 **Moderator Conduct**
 
 1. Accepting money or gifts in exchange for privileges is not allowed.
-2. Banning a member without providing a reason is not allowed.
+2. Banning a community member without providing a reason is not allowed. We may or may not ban throwaway accounts, spammers, or bots without reason.
 3. We will continue to shape /r/asianbeauty to be welcoming, informative, and enjoyable for our community.
+4. We will provide regular status updates on the sub/projects in the Weekly Roundup, biweekly or monthly depending on the current sub needs (as of 5/21/17)
 
 
 **Moderator Limits:**
 
-* We can only have two things stickied at a time.
+* Reddit can only have two things stickied at a time.
 * We can not shadowban or unshadowban someone.
 * We are not Reddit employees or admins. We are unpaid volunteers who love AB.
 * We cannot control downvotes or see who cast them.
@@ -202,32 +204,33 @@ Help make our community better by following these suggestions.
 
 We do our best to optimize the sub for everyone's use but some people will always want things their way.
 
-* Use flair filters to optimize your Reddit experience
-* Use the search bar functions to look for content you want
+* Use flair filters to get rid of types of posts you don’t want to see
+* Use the search bar functions to look for content you want [link to tutorial]
 * Use the hide function to hide posts you don't want to see
 * Report posts that violate the rules
 * Praise and upvote content you DO like.
+* [Share your thoughts with the moderators](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)
 
 See [Reddit's Rules](http://www.reddit.com/rules) for more information.
 ***
 
-#FAQ
+#FAQ  
 
 **Why isn't my post showing up?**
 
-Sometimes reddit filters or our own filters at AB mistake content for spam. [Message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) and we can usually fix it. If your content violates the rules, we are happy to explain, but will not approve the post. Occasionally, users are "Shadowbanned" and all of their posts are considered spam by default.
+Sometimes Reddit filters or our own filters at AB mistake content for spam. [Message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) and we can usually fix it. If your content violates the rules, we are happy to explain, but will not approve the post. Occasionally, users are "Shadowbanned" and all of their posts are considered spam by default.
 
-**What is Shadowbanning? Why did you shadowban me?**
+**What is shadowbanning? Why did you shadowban me?**
 
-Shadowbanning is a controversial reddit practice. Subreddits, and mods cannot affect this, only Reddit Admins can. We did not Shadowban you. There are many reasons for it, as well as methods of becoming UNshadowbanned. Read here for more: /r/shadowban, /r/shadowbanned
+Shadowbanning is a controversial Reddit practice. Subreddits and mods cannot affect this, only Reddit admins can. We did not shadowban you. There are many reasons for it, as well as methods of becoming UNshadowbanned. Read here for more: /r/shadowban, /r/shadowbanned
 
 **If you have another question for the FAQ [message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty). The FAQ is a living document and we will answer your question and add it here.**
 
-#Also consider reading
+#Also consider reading     
 
 * [/r/AsianBeauty Posting Guidelines](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines)
 * [Reddit’s Rules](https://www.reddit.com/help/contentpolicy)
-* Newbie FAQ (coming soon)
+* AB University (https://www.reddit.com/r/AsianBeauty/wiki/education)
 * [Imgur Guide](https://www.reddit.com/r/AsianBeauty/comments/3rcnm8/a_brief_guide_to_posting_your_haulsphotos_to_imgur/)
 * Search Guides:
     1. [How to Use Reddit's Native Search and Google Search (desktop/mobile)](https://www.reddit.com/r/AsianBeauty/comments/3smwwc/ysk_how_to_use_reddits_native_search_and_google/)

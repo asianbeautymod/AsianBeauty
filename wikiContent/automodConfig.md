@@ -7,7 +7,7 @@
  is_edited: false
  parent_submission:
      id: [2g3sqq, 34sij6]
- action: remove
+ action: remove  
 ---
  # Auto-remove words/phrases
  title+body: [nigger, cunt, faggot, slut, whore, bitch, asshole, rape, retard, q-depot, go-iaso, melodycosme, melody]
@@ -16,6 +16,55 @@
  #Reported Items
  reports: 5
  modmail: The above {{kind}} by /u/{{author}} has received 5 reports. Please investigate.
+
+---
+ #Post Tag Removal
+ title (includes): ["haul", "hauls", "fluff", "psa","help", "PSA", "FLUFF", "HAUL", "HAULS"]
+ moderators_exempt: true
+ action: remove
+ modmail: The above {{kind}} by u/{{author}} was removed because it contained old, non-user tags. Please investigate and ensure that this action was correct.
+---
+ #Mainthread Post Comment Mail
+ title (includes): ["question", "questions", "help", "recommend", "fake", "fakes"]
+ moderators_exempt: true
+ modmail_subject: MAINTHREAD QUESTION OR HELP POST
+ modmail:  The above {{kind}} by u/{{author}} was flagged because it contained tags that belong in designated threads. Please investigate and ensure that this action was correct.
+---
+ #Mainthread Post Comment
+ title (includes): ["question", "questions", "help", "recommend", "fake", "fakes"]
+ comment_stickied: true
+ comment: |
+     Can your submission be answered by searching our Guides or FAQ?
+
+     [How to Use Reddit's Native Search and Google Search](https://www.reddit.com/r/AsianBeauty/comments/3smwwc/ysk_how_to_use_reddits_native_search_and_google/)
+
+     [Search engine for /r/asianbeauty Safe Seller list](https://www.reddit.com/r/AsianBeauty/comments/3b6i16/i_made_a_search_engine_that_allows_you_to_find/?ref=search_posts)
+
+     [Search something in r/AsianBeauty Only](https://www.reddit.com/r/AsianBeauty/search?q=&restrict_sr=on&sort=relevance&t=all)
+
+     **Guides**
+
+     [AB University](https://www.reddit.com/r/AsianBeauty/wiki/education)
+
+     [New User Guide](https://www.reddit.com/r/AsianBeauty/wiki/new_user_guide)
+
+     **FAQ**
+
+     [Master List of Megathreads]         (https://www.reddit.com/r/AsianBeauty/wiki/megathreads)
+
+     [Product and Routine order FAQ](https://www.reddit.com/r/AsianBeauty/comments/2tokdr/product_and_routine_order_faq/)
+
+     [AB Ingredient Masterlist](https://www.reddit.com/r/AsianBeauty/comments/3o9mko/)
+
+     [Recent Sheet Mask Posts](https://www.reddit.com/r/AsianBeauty/search?q=sheet+mask&sort=relevance&restrict_sr=on&t=month)
+
+     [Recent Acid Posts](https://www.reddit.com/r/AsianBeauty/search?q=acid&restrict_sr=on&sort=relevance&t=month)
+
+     [Recent Hydration Posts](https://www.reddit.com/r/AsianBeauty/search?q=hydration&restrict_sr=on&sort=relevance&t=month)
+
+     [Recent PIH-Post Inflammatory Hyperpigmentation Posts](https://www.reddit.com/r/AsianBeauty/search?q=PIH&restrict_sr=on&sort=relevance&t=month)
+
+     [Sunscreen Master Post](https://www.reddit.com/r/AsianBeauty/comments/5tkwh0/discussionguide_ab_sunscreens_comparison/)
 ---
  #Heavily Reported Items - Removal
  reports: 5
@@ -101,13 +150,13 @@
  moderators_exempt: true
  set_flair: ["PSA","PSA"]
 ---
- title (includes): ["Review", "REVIEW", "review"]
+ title (includes): ["Review", "Reviews", "review", "reviews", "REVIEW", "REVIEWS"]
  moderators_exempt: true
  set_flair: ["Reviews", "review"]
 ---
- title (includes): ["Swatch", "FOTD", "Face of the day"]
+ title (includes): ["Swatch", "Swatches", "swatch", "swatches", "SWATCH", "SWATCHES"]
  moderators_exempt: true
- set_flair: ["Swatches & FOTD", "swatches-fotd"]
+ set_flair: ["Swatches", "swatches"]
 ---
  title (includes): ["Haul", "haul", "hauls", "Hauls", "HAUL", "HAULS"]
  moderators_exempt: true
@@ -123,27 +172,27 @@
 ---
  title (includes): ["Glamday", "glamday", "GLAMDAY"]
  moderators_exempt: true
- set_flair: ["Glamday", "glamday"]
+ set_flair: ["Glamday", "glamday"]    
 ---
  title (includes): ["Discovery", "discovery", "DISCOVERY"]
  moderators_exempt: true
- set_flair: ["Discovery", "discovery"]
+ set_flair: ["Discovery", "discovery"]    
 ---
  title (includes): ["Roundup", "Weekly Roundup", "roundup", "ROUNDUP"]
  moderators_exempt: true
- set_flair: ["Roundup", "roundup"]
+ set_flair: ["Roundup", "roundup"]    
 ---
  title (includes): ["Deals", "deal", "deals", "Deal", "DEAL", "DEALS"]
  moderators_exempt: true
- set_flair: ["Deals", "deals"]
+ set_flair: ["Deals", "deals"]    
 ---
  title (includes): ["Meetups", "Meetup", "meetup", "meetups", "MEETUP"]
  moderators_exempt: true
- set_flair: ["Meetups", "meetups"]
+ set_flair: ["Meetups", "meetups"]    
 ---
  title (includes): ["Journal", "ABJournal"]
  moderators_exempt: true
- set_flair: ["Journal", "journal"]
+ set_flair: ["Journal", "journal"]    
 ---
 
  #Description reminder for external links
@@ -181,6 +230,6 @@
  comment: |
      Your submission has been removed because it did not contain a matching flair tag in the title. Please **resubmit** your post with an appropriate tag.
 
-     These are the currently available tags:
-     **[Question] [PSA] [Review] [Swatch] [FOTD] [Haul] [Fluff] [Discussion] [Glamday] [Discovery] [Roundup] [Deals] [Meetup] [Journal]**
-     If you have questions, [send us a mailmail!](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)
+     These are the currently available tags:  
+     **[Question] [PSA] [Review] [Swatch] [FOTD] [Haul] [Fluff] [Discussion] [Glamday] [Discovery] [Roundup] [Deals] [Meetup] [Journal]**  
+     If you have questions, [send us a maod mail!](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)

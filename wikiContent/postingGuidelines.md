@@ -10,26 +10,24 @@ The guidelines are intended to help you to better understand posting here on AB.
 Because Reddit infrastructure is limited to two things stickied at once, we may UNSTICKY something to make room in certain cases. Most of our schedule will be consistent, but changes may occur temporarily as needed.
 ***
 
-###Wednesday Help Thread (WHT)
+###Daily Help Thread (DHT)
 
 **Philosophy**
-Our Wednesday Help Thread was created to encourage posting for people new to AB and for those with simpler questions and concerns. It’s an "Anything Goes" arena where no question is a stupid question, but it’s best used for questions that still haven’t been answered by sidebar material or searching the sub/Wiki. This is not meant to be the only place on the subreddit where questions can be asked, but a place where everyone should feel free to ask any question they have, and in general a place for all the personal questions that you need answered but that the wider community might not be interested in discussing.
+Our Daily Help Thread was created to encourage posting for people new to AB and for those with simpler questions and concerns. It’s an "Anything Goes" arena where no question is a stupid question, but it’s best used for questions that still haven’t been answered by sidebar material or searching the sub/Wiki. This is not meant to be the only place on the subreddit where questions can be asked, but a place where everyone should feel free to ask any question they have, and in general a place for all the personal questions that you need answered but that the wider community might not be interested in discussing.
 
-**As of 5/19/2017 all questions that would normally be Daily Help Questions must go in the Wednesday Help Thread.**
+Posting something can take a lot of courage, and we'd like to maintain an environment where people feel safe doing so. If you are in the DHT with the intention of answering other people’s questions, we encourage you to scroll past the questions that do not interest you rather than discourage users from asking their questions.
 
-Posting something can take a lot of courage, and we'd like to maintain an environment where people feel safe doing so. If you are in the WHT with the intention of answering other people’s questions, we encourage you to scroll past the questions that do not interest you rather than discourage users from asking their questions.
+We encourage you to ask questions in the DHT, but please understand that you might not get an answer every time - participation in DHT is completely voluntary, and the users responding to questions offer their assistance on their own free time and receive nothing in return, so please be mindful of that. Asking clear questions, including important information about your skin type, and clearly expressing the problem you want to solve will make your questions easier to read and answer. Be polite and concise, and thank the people who have helped you..
 
-We encourage you to ask questions in the WHT, but please understand that you might not get an answer every time - participation in WHT is completely voluntary, and the users responding to questions offer their assistance on their own free time and receive nothing in return, so please be mindful of that. Asking clear questions, including important information about your skin type, and clearly expressing the problem you want to solve will make your questions easier to read and answer. Be polite and concise, and thank the people who have helped you..
-
-**Non-AB Products in the Wednesday Help Thread**
+**Non-AB Products in the Daily Help Thread**
 
 Questions mentioning non-AB products are fine, but if the question is primarily framed around non-AB items it may be removed.
 
-**Should I post my question in the Wednesday Help Thread or on the Main AB page?**
+**Should I post my question in the Daily Help Thread or on the Main AB page?**
 
-In general, a rule of thumb is that questions that are specific to your needs or are not provoking discussion belong in the Wednesday Help Thread. Please search [link to sub search tutorial]() the subreddit before posting a discussion question. If you think a question might have been asked on AB many times before, it should be posted in the WHT. **When in doubt, always post in WHT first.**
+In general, a rule of thumb is that questions that are specific to your needs or are not provoking discussion belong in the Daily Help Thread. Please search [link to sub search tutorial]() the subreddit before posting a discussion question. If you think a question might have been asked on AB many times before, it should be posted in the DHT. **When in doubt, always post in DHT first.**
 
-**Post in the Wednesday Help Thread if you have:**
+**Post in the Daily Help Thread if you have:**
 
 * Simple skin concerns
 * A question you expect has been answered on AB before many times

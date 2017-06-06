@@ -1,4 +1,4 @@
-~Work in progress: 5.3.2017 - /u/jiyounglife. ~
+~ work in progress 5.28 u/petitoignon ~
 
 #Welcome new ABers!
 
@@ -14,7 +14,7 @@ First and foremost, welcome to our wonderful AB wiki. We hope that you find what
 (COMING SOON!)
 
 ##Skincare Routines
-1. Figure out what your skin type is. Spend some time to check your face. Remember, your face isn't just the chin and forehead, your face includes your forehead and nose too! Take care to note from the beginning of the day to the end of the day where the oily parts are or where you see some flakiness. Your skin may start to change once you start your routine so don't worry about getting this right the absolute first time!
+1. Figure out what your skin type is. Spend some time to check your face. Remember, your face isn't just the chin and forehead, your face includes your cheeks and nose too! Take care to note from the beginning of the day to the end of the day where the oily parts are or where you see some flakiness. Your skin may start to change once you start your routine so don't worry about getting this right the absolute first time!
 2. What kind of skin concern do you have? Some people are worried about aging, others are concerned about acne scars on their face. What's yours?
 3. First cleanser. It can be oil, balm, micellar water, or something new! Dont' be afraid to venture out and try new products. Who knows, maybe you'll find the new HOT thing!
 4. Second cleanser. A gentle foaming cleanser or cream cleanser.
@@ -32,12 +32,16 @@ Don't worry about buying everything at once. A lot of AB is experimenting what w
 There are a ton of ABer's constantly destashing over at /r/AsianBeautyExchange so maybe you can score some samples or full sized items for less than MSRP!
 * [Dehydrated/Sensitive Skin Haul and 10 month Review by /u/Akatchuk](http://bit.ly/2p6s318)
 
-##Where to buy AB goodies
-* [First Haul Guide](https://www.reddit.com/r/AsianBeauty/comments/4gltx6/newbies_why_your_first_haul_should_only_have_four/?st=j23lo48x&sh=ae796877)
-* [Dummy's guide to AB](https://www.reddit.com/r/AsianBeauty/comments/4m6ib7/the_dummys_guide_to_asian_beauty_and_this/?st=j23loy73&sh=92473e19)
+##[Buying Guides](https://www.reddit.com/r/AsianBeauty/wiki/buyingguides)
+##[Dummy's guide to AB](https://www.reddit.com/r/AsianBeauty/comments/4m6ib7/the_dummys_guide_to_asian_beauty_and_this/?st=j23loy73&sh=92473e19)
+
+* u/maplebee92's [Giant List of Sellers + Experiences](https://www.reddit.com/r/AsianBeauty/comments/5urylt/giant_list_of_asian_beauty_online_sellerspsa/)
+
+* [AB Sellers Wiki](https://www.reddit.com/r/AsianBeauty/wiki/sellers)
+
 ##Learning more about AB
 * [Skincare Basics](http://bit.ly/1NOdZQQ) (in progress by /u/killtheghoul)
-  /u/SnowWhiteandthePear wrote a wonderful blog post about [pH and your skin](http://www.snowwhiteandtheasianpear.com/2014/09/skincare-discovery-why-ph-of-your.html) that's well worth the read. A summary main points are as follows by /u/mynomdeplumeisplume [here.](http://bit.ly/2q7Dkjy)
+  /u/SnowWhiteandthePear wrote a wonderful blog post about [pH and your skin](http://www.snowwhiteandtheasianpear.com/2014/09/skincare-discovery-why-ph-of-your.html) that's well worth the read.
 * Bought too much? Not sure how to organize everything? Here's a [discussion about organization and storage](https://www.reddit.com/r/AsianBeauty/comments/67yfi1/discussion_how_do_you_organizestore_your_ab/?st=j224ft6g&sh=e5be6e3c)
 
 

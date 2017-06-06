@@ -71,48 +71,34 @@ We actively recruit people from diverse time zones and backgrounds, who have goo
 
 
 ##Resources & Archives
-* [MEGATHREADS](http://bit.ly/2qg8ODh)
-* [MASTERLISTS](http://bit.ly/2qcadeX)
+* [MEGATHREADS](http://bit.ly/2qg8ODh) & [MASTERLISTS](http://bit.ly/2qcadeX)
+* [Buying Guides](https://www.reddit.com/r/AsianBeauty/wiki/buyingguides)
 * [Meta Posts and Mod Communication](http://bit.ly/2qtgKTg)
 * [Meetups](http://bit.ly/2pZx6FT)
 * [AB Journal](http://bit.ly/2qAcK30)
 * [Travel Guides](http://bit.ly/2qQ6hjy)
 * [User Reviews](http://bit.ly/2pIM9CH)
+* [Shipping Delays](https://www.reddit.com/r/AsianBeauty/wiki/shippingdelays)
 
 
 ##Posting Schedule
 Each post starts at 00:00 EST
 
-**Monday** - Glamday: FOTD/Selfies (all)
+**Daily Help Thread**
 
-**Monday** - Weekly Deals
+**Monday** - Glamday: FOTD/Selfies (all) + Weekly Deals
 
-**Tuesday** - Discovery Tuesday: New finds, discoveries
-
-**Tuesday** - Unique Discussion (new topic every week)
+**Tuesday** - Discovery Tuesday: New finds, discoveries + Unique Discussion (new topic every other week)
 
 **Wednesday** - Hump-Day Hauls
 
-**Wednesday** - Wednesday Help Thread
+**Thursday** - Unique Discussion (new topic every other week)+ Best/Worst posted every week by /u/maplebee92
 
+**Friday** - Random Chat + Open
 
-**Thursday** - Unique Discussion (new topic every week)
+**Saturday** - Rant, Raves, and Mini Reviews + Random Chat
 
-**Thursday** - Best/Worst posted every other week by /u/maplebee92
-
-**Thursday** - Mod-led Discussion every other week
-
-**Friday** - Open
-
-**Friday** - Random Chat
-
-**Saturday** - Rant, Raves, and Mini Reviews
-
-**Saturday** - Random Chat
-
-**Sunday** - Sunday Funday
-
-**Sunday** - Weekly Roundup; top posts and comments of the week
+**Sunday** - Sunday Funday+ Weekly Roundup; top posts and comments of the week
 
 ***
 

@@ -7,7 +7,7 @@
  is_edited: false
  parent_submission:
      id: [2g3sqq, 34sij6]
- action: remove  
+ action: remove
 ---
  # Auto-remove words/phrases
  title+body: [nigger, cunt, faggot, slut, whore, bitch, asshole, rape, retard, q-depot, go-iaso, melodycosme, melody]
@@ -231,5 +231,5 @@
      Your submission has been removed because it did not contain a matching flair tag in the title. Please **resubmit** your post with an appropriate tag.
 
      These are the currently available tags:  
-     **[Question] [PSA] [Review] [Swatch] [FOTD] [Haul] [Fluff] [Discussion] [Glamday] [Discovery] [Roundup] [Deals] [Meetup] [Journal]**  
-     If you have questions, [send us a maod mail!](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)
+     **[Question] [Review] [Swatch] [FOTD] [Discussion] [Glamday] [Discovery] [Roundup] [Deals] [Meetup] [Journal]**  
+     If you have questions, [send us a mod mail!](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty)

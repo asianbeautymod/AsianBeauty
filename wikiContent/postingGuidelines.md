@@ -50,9 +50,6 @@ In general, a rule of thumb is that questions that are specific to your needs or
 #Posting Schedule of Stickied and Non Stickied Posts
 
 
-###Glam Day/FOTD - Monday
-All selfies/FOTDs without detailed routines are allowed **only** in the Monday stickied thread! Selfies and FOTD with detailed makeup and/or skincare routine are allowed on the main page all week round. We also started a new topic called "AB Journal" where users can post their AB progress in an individual main thread. More about this later. Progress pictures (with detailed routine), reviews, and stories are allowed any day of the week and do not need to follow the selfie rule.
-
 ###Weekly Deals - Monday
 Have you found a recent sale that you want to share with the sub? Or perhaps a new store that has interesting prices? Post it in the Weekly Deals thread.
 
@@ -63,15 +60,19 @@ Share new product releases and AB discoveries in one thread, posted by Automoder
 ###Unique Discussion - Tuesday
 This day will host a variety of topics including, City Travel Guides, Long Term Skincare Series, Product Review by Category, AB Court of Justice and more.
 
-###Wednesday Help Thread - Wednesday
-See above.
 
-###Hauls- Wednesday
+###Rants, Raves, Mini Reviews - Wednesday
+A great place to share and chat about products without having to go deep and write a serious review. Just cheer your faves, and jeer your “holy fails”. Simple!
+
+###Hump-Day Hauls- Wednesday
 This is the only time of the week you can post hauls. Your hauls should be posted in the stickied Hauls thread and each post should consist of a list of what the items are and their photos. We also welcome short reviews of the items or your reasons for purchasing them, although this is not required. Destashing should be posted in /r/AsianBeautyExchange.
 
 ###Unique Discussion - Thursday
 
 This day will host a variety of topics such as City Travel Guides, Long Term Skincare Series, Product Review by Category, AB Court of Justice and more.
+
+###Skin Issues - Thursday
+
 
 ###Best and Worst hosted by /u/maplebee92 - Thursday
 This is for all Asian Beauty brands! List your best finds from a specific brand and/or your worst flops. Inquiring minds need to know. :)
@@ -81,19 +82,19 @@ This is for all Asian Beauty brands! List your best finds from a specific brand 
 
 What would /r/AsianBeauty be without the Random Chat Day!? In the random chat thread, you can talk about anything, AB or non-AB. Please keep in mind that subreddit rules still apply.
 
-###Rants, Raves, Mini Reviews - Saturday
-A great place to share and chat about products without having to go deep and write a serious review. Just cheer your faves, and jeer your “holy fails”. Simple!
 
 ###Random Chat Day 2 - Saturday
 See above.
+
+###Fluff Thread Day- Saturday
+
+All types of fluff posts are allowed in this thread. Undocumented FoTD, Memes, Gifs, Jokes, Comics, etcs. Random conversations should be posted in the Random Chat instead.
 
 ###Weekly Roundup -  Sunday
 
 A weekly summary of our other discussion threads as well as the top posts in the subreddit. It may also include status updates of things the mods are working on.
 
-###Sunday - Funday, a thread where anything goes!
 
-It’s the end of the week, ready for the next one? All types of posts are allowed in this thread. Want to share your haul / meme / funny gif / AB comic / selfie / personal story / etc  with with the community? This is the day to do it! Keep in mind that from now on memes and humoristic gifs are **only** allowed in the Sunday Funday thread.
 
 
 
@@ -112,7 +113,7 @@ Memes, Hauls, Gifs, Fluff, and Selfies are only allowed during their respective 
 This counts all reviews, including photostories, text reviews, blogs, youtube, instagram, serious reviews, and mini reviews. All reviews that are sponsored, paid, or include review products that were provided for free must disclose that in either the title or the text of the post.
 
 ###[Question]:
-A core feature of AB will always be the asking of questions, and the search for answers. That said, only certain questions belong on the main page of the sub. Questions on the main page are ones that are not specific to yourself, and are not frequently asked (exact question asked less than 30 days ago). If your question might be easy to answer, or has probably been asked many times before in the 4-year history of AB, or if you have any doubt it meets the questions standards, first post in in our Wednesday Help Thread. It has a ridiculously high response rate. If you're not sure, see our guidelines on "Should I post my question in the Wednesday Help Thread, or on the Main AB page?"
+A core feature of AB will always be the asking of questions, and the search for answers. That said, only certain questions belong on the main page of the sub. Questions on the main page are ones that are not specific to yourself, and are not frequently asked (exact question asked less than 30 days ago). If your question might be easy to answer, or has probably been asked many times before in the 4-year history of AB, or if you have any doubt it meets the questions standards, first post in in our Daily Help Thread. It has a ridiculously high response rate. If you're not sure, see our guidelines on "Should I post my question in the Daily Help Thread, or on the Main AB page?"
 
 **[Discussion] or [Question]?**
 
@@ -146,8 +147,6 @@ You can find /r/AsianBeauty’s most discussed and loved posts for the week cura
 ###[Journal]
 If you want to share your skin progress and your current routine (that’s more than just a FOTD/selfie) document your journey here! Don’t forget to message the mods with a link to your post and we can include it on the [Journal](https://www.reddit.com/r/AsianBeauty/wiki/journal) section in the sidebar.
 
-###[Glamday]
-This is for all your selfies and FOTD without a detailed routine or makeup look. Glamday posts are allowed only in the Monday’s stickied thread!
 
 ###[Business]
 You may not post a business post without first having business flair, and mod approval. All business posts must be flaired. If you are a business and you want to submit any post, please read our [business rules](https://www.reddit.com/r/AsianBeauty/wiki/businessrules) first.

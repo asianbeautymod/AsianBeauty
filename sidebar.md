@@ -11,10 +11,33 @@ Before posting, you may want to search and read below to see if your question ha
 
 * [Common Acronyms on AB](http://bit.ly/2qhT86M)
 
-
 ***
 ♥ [Join our Discord Server to start chatting](https://discord.gg/ab)
 ***
+
+##RULES
+* [Our rules](http://bit.ly/2pcOBm1)
+
+* [Posting guidelines](http://bit.ly/21NyEwZ)
+
+***
+There are special rules for Self-promotion Content as well as for Businesses, please refer to them here before posting:
+***
+
+* [Bloggers/Tweeters/Youtubers/etc](http://bit.ly/2oBA0Ak)
+* [Businesses/Market Research/Shops/Stores/Apps/etc](http://bit.ly/25nRIGi)
+
+##Resources & Archives
+* [MEGATHREADS](http://bit.ly/2qg8ODh) & [MASTERLISTS](http://bit.ly/2qcadeX)
+* [Buying Guides](https://www.reddit.com/r/AsianBeauty/wiki/buyingguides)
+* [Meta Posts and Mod Communication](http://bit.ly/2qtgKTg)
+* [Meetups](http://bit.ly/2pZx6FT)
+* [AB Journal](http://bit.ly/2qAcK30)
+* [Travel Guides](http://bit.ly/2qQ6hjy)
+* [User Reviews](http://bit.ly/2pIM9CH)
+* [Shipping Delays](http://bit.ly/2rwZD2t)
+* [GitHub Tutorial and link to Repository](http://bit.ly/2tlRMGm)
+
 
 ##Flairs
 * [How to do Post Flairs](http://bit.ly/2pnyRYD)
@@ -25,27 +48,6 @@ Before posting, you may want to search and read below to see if your question ha
 
 * [Business Flair](http://bit.ly/25nRIGi)
 
-
-##RULES
-* [Our rules](http://bit.ly/2pcOBm1)
-
-* [Posting guidelines](http://bit.ly/21NyEwZ)
-
-***
-Special rules apply to the following. In order to participate, please read these sections and comply with our rules:
-***
-* [Bloggers/Tweeters/Youtubers/Bloggers/etc](http://bit.ly/2oBA0Ak)
-* [Businesses/Brands/Shops/etc](http://bit.ly/25nRIGi)
-
-##Want to be a mod?
-We are recruiting volunteers to join the team. This is a serious role that takes many hours per week.
-
-We actively recruit people from diverse time zones and backgrounds, who have good problem solving skills, diplomacy, and who love to learn new things.
-[Apply here!](http://goo.gl/forms/drnc2Av9fk)
-
-##About AsianBeauty (AB)
-* Not a space to gawk at Asian people. To understand better, please read [Here](http://bit.ly/1L1Tcq3), and [Here](http://bit.ly/1L1TWLM), and [Here](http://redd.it/3krpj1).
-* This sub is for beauty brands, cosmetics, and skincare from Asia. Japan, Taiwan, South Korea, China, etc.
 
 
 
@@ -70,38 +72,57 @@ We actively recruit people from diverse time zones and backgrounds, who have goo
 [FILTER ALL](http://al.reddit.com/r/AsianBeauty/#al)
 
 
-##Resources & Archives
-* [MEGATHREADS](http://bit.ly/2qg8ODh) & [MASTERLISTS](http://bit.ly/2qcadeX)
-* [Buying Guides](https://www.reddit.com/r/AsianBeauty/wiki/buyingguides)
-* [Meta Posts and Mod Communication](http://bit.ly/2qtgKTg)
-* [Meetups](http://bit.ly/2pZx6FT)
-* [AB Journal](http://bit.ly/2qAcK30)
-* [Travel Guides](http://bit.ly/2qQ6hjy)
-* [User Reviews](http://bit.ly/2pIM9CH)
-* [Shipping Delays](https://www.reddit.com/r/AsianBeauty/wiki/shippingdelays)
-
-
 ##Posting Schedule
 Each post starts at 00:00 EST
 
-**Daily Help Thread**
+**Daily**
 
-**Monday** - Glamday: FOTD/Selfies (all) + Weekly Deals
+* Daily Help Thread
+* Now you can post FoTD any day of the week! Please read the rules on how.
 
-**Tuesday** - Discovery Tuesday: New finds, discoveries + Unique Discussion (new topic every other week)
+**Monday**
 
-**Wednesday** - Hump-Day Hauls
+* Weekly Deals
 
-**Thursday** - Unique Discussion (new topic every other week)+ Best/Worst posted every week by /u/maplebee92
+**Tuesday**
 
-**Friday** - Random Chat + Open
+* Discovery Tuesday: New finds, discoveries
 
-**Saturday** - Rant, Raves, and Mini Reviews + Random Chat
+**Wednesday**
 
-**Sunday** - Sunday Funday+ Weekly Roundup; top posts and comments of the week
+* Rant, Raves, and Mini Reviews
+
+**Thursday**
+
+* Skin Issues
+
+* Best/Worst (posted every other week by /u/maplebee92)
+
+**Friday**
+
+* Random Chat
+
+**Saturday**
+
+* Fluff Thread Day
+
+* Random Chat
+
+**Sunday**
+
+* Weekly Roundup + announcements
+
+##Want to be a mod?
+We are recruiting volunteers to join the team. This is a serious role that takes many hours per week.
+
+We actively recruit people from diverse time zones and backgrounds, who have good problem solving skills, diplomacy, and who love to learn new things.
+[Apply here!](http://goo.gl/forms/drnc2Av9fk)
+
+##About AsianBeauty (AB)
+* Not a space to gawk at Asian people. To understand better, please read [Here](http://bit.ly/1L1Tcq3), and [Here](http://bit.ly/1L1TWLM), and [Here](http://redd.it/3krpj1).
+* This sub is for beauty brands, cosmetics, and skincare from Asia. Japan, Taiwan, South Korea, China, etc.
 
 ***
-
 [Check other Related Subreddits here.](http://bit.ly/2pxG5fP)
 
 ***

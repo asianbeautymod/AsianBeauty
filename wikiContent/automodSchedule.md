@@ -20,12 +20,12 @@
 
         * **Skin Type**:  | **Country/Climate I'm in**:  | **Top Skin Concern**:
         * **Current Routine/Products I'm Using**:
-
+        
         **AM**
         * [product]
         * [product]
         * [product]
-
+        
         **PM**
         * [product]
         * [product]
@@ -49,7 +49,6 @@
 
 
         **Remember that all skincare is individual and Your Mileage May Vary with recommendations. We are enthusiasts, not doctors, and we cannot provide you with medical advice. Speak to a medical professional if your skin concerns are affecting your well-being.**
-
 ---
 
     first: "June 21, 2017 4:00 AM"
@@ -71,21 +70,19 @@
     distinguish: true
     text: |
      Looking for a skin twin? Having a major skin 911? Our new weekly skin issues thread aims to discuss problems by skin type.
-
+     
      * **Skin Type**:  | **Country/Climate I'm in**:  | **Skin Problem**:
         * **Current Routine/Products I'm Using**:
-
+        
         **AM**
         * [product]
         * [product]
         * [product]
-
+        
         **PM**
         * [product]
         * [product]
         * [product]
-
-
 ---
 
     first: "December 18, 2015 4:00 AM"
@@ -122,7 +119,7 @@
 
      **To keep it easy for people to find their ‘skin twins’ we would ask that you use the following template.**
 
-     **You only need to fill in steps that you actually use** (so if you don’t use an Essence, *remove that line*) and please **only provide up to three examples** of HG/recommended products for that step (so if you have 3 toners you love, you can list all 3!)
+     **You only need to fill in steps that you actually use** (so if you don’t use an Essence, *remove that line*) and please **only provide up to three examples** of HG/recommended products for that step (so if you have 3 toners you love, you can list all 3!) 
 
      ***
 
@@ -140,7 +137,7 @@
 
      **pH Adjusting Toner:**
 
-     **Vitamin C Serum:**
+     **Vitamin C Serum:** 
 
      **BHA:**
 
@@ -168,13 +165,13 @@
 
      **Sleeping Pack:**
 
-     **Mask Pack:**
+     **Mask Pack:** 
 
      **Sheet Mask:**
 
      **Sunscreen:**
 
-     **Spot Treatment:**
+     **Spot Treatment:** 
 
      **Other:**
 
@@ -189,10 +186,10 @@
      Know about an upcoming AB meet-up in your area? Want to plan one? Looking for one to join? This post is for discussing upcoming meet-ups at length, without fear of spamming the subreddit & compiling all that info in one easy-to-find, accessible location. Brought to you by request of several friendly AB users. &hearts;
 
      **This does not mean meet-up posts are not welcome outside of this thread!** If you have urgent information to share, such as cancellations, first time meetings, or location change, please feel free to PSA it up! If you want to share pictures from your meet-up, that def deserves its own thread! But for general announcements, helps with scheduling or drawing together attendees, so on and so forth, this thread exists to have an easy access point for all. :)
-
+     
      We've created a meetup tag just for you as well as a place in the [wiki](https://www.reddit.com/r/AsianBeauty/wiki/meetups)! Send a message to the mods [here](https://www.reddit.com/message/compose?to=/r/AsianBeauty) to add your group to the wiki!
 
-     This post repeats every two weeks!
+     This post repeats every two weeks! 
 
 ---
 
@@ -202,7 +199,7 @@
     title: "New Discoveries"
     distinguish: true
     text: |
-        Have you found a new product that you want to tell everyone about? Got a new awesome AB hack, tips, or tricks to share? Share them all in one place! This is not a place to share sale/deal updates.
+        Have you found a new product that you want to tell everyone about? Got a new awesome AB hack, tips, or tricks to share? Share them all in one place! This is not a place to share sale/deal updates. 
 
 
 ---
@@ -212,14 +209,14 @@
     title: "Weekly Deals {{date %B %d, %Y}}"
     distinguish: true
     text: |
-
+        
             Have you heard of an awesome flash sale? Do you have a discount code or deal you think everyone should know about? Post the link with a brief description here to share with the community.
             This link will be added to the sidebar for easy desktop navigation.
-
+            
             ###Please include the following:
-
+            
             *Vendor/Store:*
             *Dates Active:*
             *Link*
-
+            
             Note: This is an unpinned thread, to search for the latest deals thread click [here](https://www.reddit.com/r/AsianBeauty/search?q=+flair:deals&restrict_sr=on&sort=new&t=all&feature=legacy_search).

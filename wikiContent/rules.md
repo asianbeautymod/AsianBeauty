@@ -1,6 +1,6 @@
 # /r/AsianBeauty Rules & Community Conduct
 
-Welcome to /r/AsianBeauty!
+Welcome to /r/AsianBeauty!  
 
 ##Philosophy of the Sub
 
@@ -61,7 +61,7 @@ Repeated bad conduct will not be tolerated.
 	1a.  Likewise, all discount/freebie-for-review relationships with must be disclosed.
 9. ALL external links including Imgur links MUST contain a comment adequately describing the content of the link. This comment must be posted within 15 minutes or the link will be removed. This way you will not be mistaken for spam. This also assists our friends accessing Reddit via mobile.
 10. All haul posts must have a list of the products shown in the pictures and be posted in the designated Hump-day Haul thread on Wednesdays.
-11. All FOTDs must be posted in the designated Glamday thread on Mondays, and must contain a list of products used (makeup and/or routine, as relevant). This list is enough to fulfill the requirement in rule 9.
+11. All FOTDs [must contain a list of products used](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines#wiki_fotd) (makeup and/or routine, as relevant). This list is enough to fulfill the requirement in rule 9.
 12. All memes and fluff posts must be posted in the designated Fluff thread on Sundays.
 13. All personal questions and requests must go in the Daily Help Thread. For more info about DHT read our [Post Guidelines](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines)
 
@@ -211,7 +211,7 @@ Help make our community better by following these suggestions.
 
 We do our best to optimize the sub for everyone's use but some people will always want things their way.
 
-* Use flair filters on the sidebar to get rid of types of posts you don’t want to see 
+* Use flair filters on the sidebar to get rid of types of posts you don’t want to see
 * Use the search bar functions to look for content you want [link to tutorial]
 * Use the hide function to hide posts you don't want to see
 * Report posts that violate the rules

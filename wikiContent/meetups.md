@@ -7,6 +7,8 @@ These are in-person hangouts created by other AB-ers to meet and do various thin
 
 Note, meetups listed here may have already passed, but show where meetups are being held, and who to contact for more info.
 
+[Brighton, UK](https://www.reddit.com/r/AsianBeauty/comments/6j0zhc/uk_ab_meet_up_meetups/) - /u/Mcuriousity
+
 [Los Angeles, California] (https://www.reddit.com/r/AsianBeauty/comments/6ekuj1/meetups_possible_la_meetup/) - /u/lansters , /u/jenalyn70
 
 [Ottawa, Ontario](https://www.reddit.com/r/AsianBeauty/comments/6fp0x4/meetup_ottawa_on_meetup_tea_time_and_a_sheetmasks/) - /u/glitternova

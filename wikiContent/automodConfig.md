@@ -24,14 +24,14 @@
  action: remove
  comment_stickied: true
  comment: |
-     Hi there! THis post has been removed for the use of old tags/flair such as [fluff], [PSA], [deals] or [hauls]. Please see our updated posting guidelines [here](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines#wiki_about_post_flair.3A) for the list of approved user tags, as well as the best place to post your content.
+     Hi there! This post has been removed for the use of old tags/flair such as [fluff], [PSA], [deals] or [hauls]. Please see our updated posting guidelines [here](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines#wiki_about_post_flair.3A) for the list of approved user tags, as well as the best place to post your content. Sorry for any confusion! PM the mods with any questions you might have, we're happy to help.
 
 ---
  #Mainthread FAQ Post Comment
- title (includes): ["help", "recommend", "fake", "fakes", "recommendation", "routine", "question"]
+ title (includes): ["routine question", "routine help", "new to ab", "newbie", "I'm new here", "product order", "routine order", "routine order help"]
  comment_stickied: true
  comment: |
-  Hello there! Can your submission be answered by searching our Guides, FAQ, or by posting in our Daily Help Thread (pinned to the top of the subreddit)?
+  Hello there! This is an automated bot here to help you, as it might not always be easy to find resources here, and it might not be easy to understand the posting rules. Here's a list of links you might like:
 
   [AB University](https://www.reddit.com/r/AsianBeauty/wiki/education)
 
@@ -48,31 +48,27 @@
   [Search something in r/AsianBeauty Only](https://www.reddit.com/r/AsianBeauty/search?q=&restrict_sr=on&sort=relevance&t=all)
 
 
-  [How to Use Reddit's Native Search and Google Search](https://www.reddit.com/r/AsianBeauty/comments/3smwwc/ysk_how_to_use_reddits_native_)     
+  [How to Use Reddit's Native Search and Google Search](https://www.reddit.com/r/AsianBeauty/comments/3smwwc/ysk_how_to_use_reddits_native_)  
+
+  Please feel free to PM the mods if you have any questions, we're here to help!
 ---
-#Mainthread Sunscreen Post Comment
- title (includes): ["sunscreen","white cast"]
+ #Mainthread Sunscreen Post Comment
+ title (includes): ["sunscreen", "white cast"]
  comment_stickied: true
  comment: |
-  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to a [Master Post](https://www.reddit.com/r/AsianBeauty/comments/5tkwh0/discussionguide_ab_sunscreens_comparison/) as well as recently posted discussions or [questions on sunscreen]( https://www.reddit.com/r/AsianBeauty/search?q=sunscreen&restrict_sr=on&sort=relevance&t=all).  If you are looking for sunscreen recommendations without a white cast, [check here.]( https://www.reddit.com/r/AsianBeauty/search?q=sunscreen+no+white+cast&restrict_sr=on&sort=relevance&t=all)
+  Hello there! This is an automated bot to help you, as it might not be easy to find resources here. You posted about Sunscreens, so here's a link to a [Master Post](https://www.reddit.com/r/AsianBeauty/comments/5tkwh0/discussionguide_ab_sunscreens_comparison/) as well as recently posted discussions or [questions on sunscreen]( https://www.reddit.com/r/AsianBeauty/search?q=sunscreen&restrict_sr=on&sort=relevance&t=all).  If you are looking for sunscreen recommendations without a white cast, [check here.]( https://www.reddit.com/r/AsianBeauty/search?q=sunscreen+no+white+cast&restrict_sr=on&sort=relevance&t=all)
 ---
-#Mainthread PIH Post Comment
- title (includes): ["PIH","scarring", "acne scars","scars", "acne scarring", "post inflammatory hyperpigmentation"]
+ #Mainthread PIH Post Comment
+ title (includes): ["PIH","scarring", "acne scars", "scars", "acne scarring", "post inflammatory hyperpigmentation"]
  comment_stickied: true
  comment: |
-  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to a [recent PIH-Post Inflammatory Hyperpigmentation Posts](https://www.reddit.com/r/AsianBeauty/search?q=PIH&restrict_sr=on&sort=relevance&t=month). If you are looking for PIH help in general recommendations can be found [check here.]( https://www.reddit.com/r/AsianBeauty/search?q=PIH+help&restrict_sr=on&sort=relevance&t=all). r/AsianBeauty Megathreads can be found [here](https://www.reddit.com/r/AsianBeauty/wiki/megathreads).
+  Hello there! This is an automated bot to help you, as it might not be easy to find resources here. You posted about scarring, PIH, PIE, or acne scars, so here's a link to a [recent PIH-Post Inflammatory Hyperpigmentation Posts](https://www.reddit.com/r/AsianBeauty/search?q=PIH&restrict_sr=on&sort=relevance&t=month). If you are looking for PIH help in general recommendations can be found [check here.]( https://www.reddit.com/r/AsianBeauty/search?q=PIH+help&restrict_sr=on&sort=relevance&t=all). r/AsianBeauty Megathreads can be found [here](https://www.reddit.com/r/AsianBeauty/wiki/megathreads).
 ---               
-#Mainthread Hydrate Post Comment
- title (includes): ["hydration", "moisture barrier", "hydrate", "dry skin", "repair moisture barrier"]
+  #Mainthread Hydrate Post Comment
+ title (includes): ["hydration", "moisture barrier", "hydrate", "dry skin", "repair moisture barrier",]
  comment_stickied: true
  comment: |
-  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to [recent Hydration Posts](https://www.reddit.com/r/AsianBeauty/search?q=hydration&restrict_sr=on&sort=relevance&t=month) as well as how to [repair a damaged moisture barrier]( https://www.reddit.com/r/AsianBeauty/search?q=repair+moisture+barrier&sort=relevance&restrict_sr=on&t=all) and potentially helpful [Megathreads]( https://www.reddit.com/r/AsianBeauty/wiki/megathreads).
----
-#Mainthread Routine Order Post Comment
- title (includes): ["product order", "routine order", "routine order help", "new routine", "help routine"]
- comment_stickied: true
- comment: |
-  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to our [Product and Routine order FAQ](https://www.reddit.com/r/AsianBeauty/comments/2tokdr/product_and_routine_order_faq/) as well as recent posts on [product routine order]( https://www.reddit.com/r/AsianBeauty/search?q=routine+order&sort=relevance&restrict_sr=on&t=year). Under our [Megathreads]( https://www.reddit.com/r/AsianBeauty/wiki/megathreads) wiki page, you may find several helpful discussions as well.
+  Hello there! This is an automated bot to help you, as it might not be easy to find resources here. You posted about hydration, so here is a link to [recent Hydration Posts](https://www.reddit.com/r/AsianBeauty/search?q=hydration&restrict_sr=on&sort=relevance&t=month) as well as how to [repair a damaged moisture barrier]( https://www.reddit.com/r/AsianBeauty/search?q=repair+moisture+barrier&sort=relevance&restrict_sr=on&t=all) and potentially helpful [Megathreads]( https://www.reddit.com/r/AsianBeauty/wiki/megathreads).
 ---
  #Heavily Reported Items - Removal
  reports: 5
@@ -88,7 +84,7 @@
  domain+body: [bit.ly, bit.do, tl.gd, adf.ly, is.gd, goo.gl, j.mp, t.co, tinyurl.com, qqurl.com, tiny.cc, lnkd.in, db.tt, qr.ae, bitly.com, cur.lv, ow.ly, adcrun.ch, ity.im, q.gs, viralurl.com, vur.me, bc.vc, twitthis.com, u.to, j.mp, buzurl.com, cutt.us, u.bb, yourls.org, crisco.com, x.co, prettylinkpro.com, viralurl.biz, adcraft.co, virl.ws, scrnch.me, filoops.info, vurl.bz, vzturl.com, lemde.fr, qr.net, 1url.com, tweez.me, 7vd.cn, v.gd, dft.ba, aka.gr, tr.im, tinyarrows.com, xn--hgi.ws, amzn.to, "➡.ws"]
  action: remove
  message: |
-     Your [{{kind}}]({{permalink}}) in /r/{{subreddit}} was automatically removed because you used a URL shortener.
+     Sorry, your [{{kind}}]({{permalink}}) in /r/{{subreddit}} was automatically removed because you used a URL shortener.
 
      URL shorteners are not permitted in /r/{{subreddit}} as they impair our ability to enforce link blacklists.
 
@@ -142,7 +138,7 @@
  author: Automoderator
  set_suggested_sort: new
  type: submission
- title: ["ASK HERE! Daily Help, and Questions:"]
+ title: ["HAVE A QUESTION? ASK HERE! Daily Help and Questions:"]
 ---
      #Website Blacklist
  domain+body+title: [q-depot.com, proud-tobe-asian.blogspot.jp]
@@ -234,7 +230,7 @@
      - "[ABJournal]"
  action: remove
  comment: |
-     Your submission has been removed because it did not contain a matching flair tag in the title. Please **resubmit** your post with an appropriate tag.
+     Sorry, your submission has been removed because it did not contain a matching flair tag in the title. Please **resubmit** your post with an appropriate tag. Please feel free to pm the mods if you have any questions, we're here to help!
 
      These are the currently available tags:  
      **[Question] [Review] [Swatch] [FOTD] [Discussion] [Glamday] [Discovery] [Roundup] [Deals] [Meetup] [Journal]**  

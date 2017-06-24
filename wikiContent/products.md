@@ -25,6 +25,10 @@
 #Facial Oils
 * [Facial oils](http://bit.ly/2q1JnpZ)
 
+#Toners
+* [Feb 2017 Toners Discussion](https://www.reddit.com/r/AsianBeauty/comments/5sl5gf/seeking_opinions_toners_discussion/)
+* [March 2017 Favorite Toners](https://www.reddit.com/r/AsianBeauty/comments/62jvta/discussion_tell_me_about_your_favorite_toner/)
+
 #AntiAging
 * [Anti-aging](http://bit.ly/2p1xNwF)
 

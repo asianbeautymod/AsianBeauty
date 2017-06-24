@@ -147,9 +147,15 @@ You can find /r/AsianBeauty’s most discussed and loved posts for the week cura
 ###[Journal]
 If you want to share your skin progress and your current routine (that’s more than just a FOTD/selfie) document your journey here! Don’t forget to message the mods with a link to your post and we can include it on the [Journal](https://www.reddit.com/r/AsianBeauty/wiki/journal) section in the sidebar.
 
-
 ###[Business]
 You may not post a business post without first having business flair, and mod approval. All business posts must be flaired. If you are a business and you want to submit any post, please read our [business rules](https://www.reddit.com/r/AsianBeauty/wiki/businessrules) first.
+
+###FOTD
+FOTD are allowed any day of the week, but we don't have the tag for it yet (we're planning a tag overhaul) If you are posting a FOTD you must include the following or the post will be removed:
+
+* Full Routine including skin type and climate and what else got you to this point
+* Any products or factors that you feel like made the biggest difference (where applicable)
+* Your next skincare goals (where applicable)
 
 ###Mod-only posts:
 
@@ -196,6 +202,7 @@ Fantastic opportunity to swatch products and create a mini repertoire of data fo
 * Self-promotion posts that violate 1:10 rule or 2x a week maximum rule
 * Posts that have previously been removed for violating rules
 * Posts and comments that contain undisclosed affiliate links
+* FOTD without routine info
 
 ##External links
 ANY external link MUST have a comment posted that describes the link. Imgur links should have descriptions with the photo or a comment on the post. If you own the site you are linking to, or you created the content, you MUST disclose this. If you are writing about a product, you MUST say how you acquired it. If you have been paid to write the post, you must say so.

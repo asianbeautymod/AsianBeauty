@@ -7,7 +7,7 @@
  is_edited: false
  parent_submission:
      id: [2g3sqq, 34sij6]
- action: remove
+ action: remove  
 ---
  # Auto-remove words/phrases
  title+body: [nigger, cunt, faggot, slut, whore, bitch, asshole, rape, retard, q-depot, go-iaso, melodycosme, melody]
@@ -22,49 +22,57 @@
  title (includes): ["haul", "hauls", "fluff", "psa","help", "PSA", "FLUFF", "HAUL", "HAULS"]
  moderators_exempt: true
  action: remove
- modmail: The above {{kind}} by u/{{author}} was removed because it contained old, non-user tags. Please investigate and ensure that this action was correct.
----
- #Mainthread Post Comment Mail
- title (includes): ["question", "questions", "help", "recommend", "fake", "fakes"]
- moderators_exempt: true
- modmail_subject: MAINTHREAD QUESTION OR HELP POST
- modmail:  The above {{kind}} by u/{{author}} was flagged because it contained tags that belong in designated threads. Please investigate and ensure that this action was correct.
----
- #Mainthread Post Comment
- title (includes): ["question", "questions", "help", "recommend", "fake", "fakes"]
  comment_stickied: true
  comment: |
-     Can your submission be answered by searching our Guides or FAQ?
+     Hi there! THis post has been removed for the use of old tags/flair such as [fluff], [PSA], [deals] or [hauls]. Please see our updated posting guidelines [here](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines#wiki_about_post_flair.3A) for the list of approved user tags, as well as the best place to post your content.
 
-     [How to Use Reddit's Native Search and Google Search](https://www.reddit.com/r/AsianBeauty/comments/3smwwc/ysk_how_to_use_reddits_native_search_and_google/)
+---
+ #Mainthread FAQ Post Comment
+ title (includes): ["help", "recommend", "fake", "fakes", "recommendation", "routine", "question"]
+ comment_stickied: true
+ comment: |
+  Hello there! Can your submission be answered by searching our Guides, FAQ, or by posting in our Daily Help Thread (pinned to the top of the subreddit)?
 
-     [Search engine for /r/asianbeauty Safe Seller list](https://www.reddit.com/r/AsianBeauty/comments/3b6i16/i_made_a_search_engine_that_allows_you_to_find/?ref=search_posts)
+  [AB University](https://www.reddit.com/r/AsianBeauty/wiki/education)
 
-     [Search something in r/AsianBeauty Only](https://www.reddit.com/r/AsianBeauty/search?q=&restrict_sr=on&sort=relevance&t=all)
 
-     **Guides**
+  [New User Guide](https://www.reddit.com/r/AsianBeauty/wiki/new_user_guide)
 
-     [AB University](https://www.reddit.com/r/AsianBeauty/wiki/education)
 
-     [New User Guide](https://www.reddit.com/r/AsianBeauty/wiki/new_user_guide)
+  [Master List of Megathreads](https://www.reddit.com/r/AsianBeauty/wiki/megathreads)
 
-     **FAQ**
 
-     [Master List of Megathreads]         (https://www.reddit.com/r/AsianBeauty/wiki/megathreads)
+  [AB Ingredient Masterlist](https://www.reddit.com/r/AsianBeauty/comments/3o9mko/)
 
-     [Product and Routine order FAQ](https://www.reddit.com/r/AsianBeauty/comments/2tokdr/product_and_routine_order_faq/)
 
-     [AB Ingredient Masterlist](https://www.reddit.com/r/AsianBeauty/comments/3o9mko/)
+  [Search something in r/AsianBeauty Only](https://www.reddit.com/r/AsianBeauty/search?q=&restrict_sr=on&sort=relevance&t=all)
 
-     [Recent Sheet Mask Posts](https://www.reddit.com/r/AsianBeauty/search?q=sheet+mask&sort=relevance&restrict_sr=on&t=month)
 
-     [Recent Acid Posts](https://www.reddit.com/r/AsianBeauty/search?q=acid&restrict_sr=on&sort=relevance&t=month)
-
-     [Recent Hydration Posts](https://www.reddit.com/r/AsianBeauty/search?q=hydration&restrict_sr=on&sort=relevance&t=month)
-
-     [Recent PIH-Post Inflammatory Hyperpigmentation Posts](https://www.reddit.com/r/AsianBeauty/search?q=PIH&restrict_sr=on&sort=relevance&t=month)
-
-     [Sunscreen Master Post](https://www.reddit.com/r/AsianBeauty/comments/5tkwh0/discussionguide_ab_sunscreens_comparison/)
+  [How to Use Reddit's Native Search and Google Search](https://www.reddit.com/r/AsianBeauty/comments/3smwwc/ysk_how_to_use_reddits_native_)     
+---
+#Mainthread Sunscreen Post Comment
+ title (includes): ["sunscreen","white cast"]
+ comment_stickied: true
+ comment: |
+  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to a [Master Post](https://www.reddit.com/r/AsianBeauty/comments/5tkwh0/discussionguide_ab_sunscreens_comparison/) as well as recently posted discussions or [questions on sunscreen]( https://www.reddit.com/r/AsianBeauty/search?q=sunscreen&restrict_sr=on&sort=relevance&t=all).  If you are looking for sunscreen recommendations without a white cast, [check here.]( https://www.reddit.com/r/AsianBeauty/search?q=sunscreen+no+white+cast&restrict_sr=on&sort=relevance&t=all)
+---
+#Mainthread PIH Post Comment
+ title (includes): ["PIH","scarring", "acne scars","scars", "acne scarring", "post inflammatory hyperpigmentation"]
+ comment_stickied: true
+ comment: |
+  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to a [recent PIH-Post Inflammatory Hyperpigmentation Posts](https://www.reddit.com/r/AsianBeauty/search?q=PIH&restrict_sr=on&sort=relevance&t=month). If you are looking for PIH help in general recommendations can be found [check here.]( https://www.reddit.com/r/AsianBeauty/search?q=PIH+help&restrict_sr=on&sort=relevance&t=all). r/AsianBeauty Megathreads can be found [here](https://www.reddit.com/r/AsianBeauty/wiki/megathreads).
+---               
+#Mainthread Hydrate Post Comment
+ title (includes): ["hydration", "moisture barrier", "hydrate", "dry skin", "repair moisture barrier"]
+ comment_stickied: true
+ comment: |
+  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to [recent Hydration Posts](https://www.reddit.com/r/AsianBeauty/search?q=hydration&restrict_sr=on&sort=relevance&t=month) as well as how to [repair a damaged moisture barrier]( https://www.reddit.com/r/AsianBeauty/search?q=repair+moisture+barrier&sort=relevance&restrict_sr=on&t=all) and potentially helpful [Megathreads]( https://www.reddit.com/r/AsianBeauty/wiki/megathreads).
+---
+#Mainthread Routine Order Post Comment
+ title (includes): ["product order", "routine order", "routine order help", "new routine", "help routine"]
+ comment_stickied: true
+ comment: |
+  Hello there! Can your submission be answered by searching our Guides, FAQ, or Wiki? Below is a link to our [Product and Routine order FAQ](https://www.reddit.com/r/AsianBeauty/comments/2tokdr/product_and_routine_order_faq/) as well as recent posts on [product routine order]( https://www.reddit.com/r/AsianBeauty/search?q=routine+order&sort=relevance&restrict_sr=on&t=year). Under our [Megathreads]( https://www.reddit.com/r/AsianBeauty/wiki/megathreads) wiki page, you may find several helpful discussions as well.
 ---
  #Heavily Reported Items - Removal
  reports: 5
@@ -146,10 +154,6 @@
  moderators_exempt: true
  set_flair: ["Question", "question"]
 ---
- title (includes): ["PSA"]
- moderators_exempt: true
- set_flair: ["PSA","PSA"]
----
  title (includes): ["Review", "Reviews", "review", "reviews", "REVIEW", "REVIEWS"]
  moderators_exempt: true
  set_flair: ["Reviews", "review"]
@@ -157,14 +161,6 @@
  title (includes): ["Swatch", "Swatches", "swatch", "swatches", "SWATCH", "SWATCHES"]
  moderators_exempt: true
  set_flair: ["Swatches", "swatches"]
----
- title (includes): ["Haul", "haul", "hauls", "Hauls", "HAUL", "HAULS"]
- moderators_exempt: true
- set_flair: ["Hauls", "hauls"]
----
- title (includes): ["Fluff", "FLUFF", "fluff"]
- moderators_exempt: true
- set_flair: ["Fluff", "fluff"]
 ---
  title (includes): ["Discussion", "discussion", "DISCUSSION"]
  moderators_exempt: true

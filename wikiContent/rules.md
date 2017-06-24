@@ -37,12 +37,19 @@ If you believe a post was removed by mistake, [please PM the moderators](https:/
 7. Exhibit disruptive behavior, including but not limited to:
 
 	7a. Unsolicited comments on someone's sexiness/sexual desirability
+
 	7b. Criticising someone’s appearance (unless with explicit permission from the person being criticised)
+
 	7c. Name-calling
+
 	7d. Trolling or bullying
+
 	7e. Creating or inciting drama, e.g. spreading false rumours, linking to drama/CJ subs or creating “callout” posts - if you have any concerns, please PM the mods first.
+
 	7f. Raging at people
+
 	7g. Correcting grammar without being asked to or making fun of someone’s English
+
 	7h. Derailing threads
 
 Repeated bad conduct will not be tolerated.
@@ -56,7 +63,7 @@ Repeated bad conduct will not be tolerated.
 10. All haul posts must have a list of the products shown in the pictures and be posted in the designated Hump-day Haul thread on Wednesdays.
 11. All FOTDs must be posted in the designated Glamday thread on Mondays, and must contain a list of products used (makeup and/or routine, as relevant). This list is enough to fulfill the requirement in rule 9.
 12. All memes and fluff posts must be posted in the designated Fluff thread on Sundays.
-13. All questions regarding personal questions and requests must go in the Wednesday Help Thread. For more info about WHT read our Post Guidelines [link]
+13. All personal questions and requests must go in the Daily Help Thread. For more info about DHT read our [Post Guidelines](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines)
 
 
 
@@ -94,7 +101,7 @@ We understand that when you have a passion for something, things can occasionall
 3. Be patient with each other in tough discussions
 4. Add value to posts with research or details
 5. Think of the other person behind the screen
-6. Ask questions wheneve you:
+6. Ask questions whenever you:
     * Think a person seems "stupid", "rude", "wrong"
     * Are confused
     * Are disagreed with
@@ -204,7 +211,7 @@ Help make our community better by following these suggestions.
 
 We do our best to optimize the sub for everyone's use but some people will always want things their way.
 
-* Use flair filters to get rid of types of posts you don’t want to see
+* Use flair filters on the sidebar to get rid of types of posts you don’t want to see 
 * Use the search bar functions to look for content you want [link to tutorial]
 * Use the hide function to hide posts you don't want to see
 * Report posts that violate the rules
@@ -218,11 +225,11 @@ See [Reddit's Rules](http://www.reddit.com/rules) for more information.
 
 **Why isn't my post showing up?**
 
-Sometimes Reddit filters or our own filters at AB mistake content for spam. [Message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) and we can usually fix it. If your content violates the rules, we are happy to explain, but will not approve the post. Occasionally, users are "Shadowbanned" and all of their posts are considered spam by default.
+Sometimes reddit filters or our own filters at AB mistake content for spam. [Message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty) and we can usually fix it. If your content violates the rules, we are happy to explain, but will not approve the post. Occasionally, users are "Shadowbanned" and all of their posts are considered spam by default.
 
-**What is shadowbanning? Why did you shadowban me?**
+**What is Shadowbanning? Why did you shadowban me?**
 
-Shadowbanning is a controversial Reddit practice. Subreddits and mods cannot affect this, only Reddit admins can. We did not shadowban you. There are many reasons for it, as well as methods of becoming UNshadowbanned. Read here for more: /r/shadowban, /r/shadowbanned
+Shadowbanning is a controversial Reddit practice. Subreddits and Mods cannot affect this, only Reddit Admins can. We did not Shadowban you. There are many reasons for it, as well as methods of becoming UNshadowbanned. Read here for more: /r/shadowban, /r/shadowbanned
 
 **If you have another question for the FAQ [message the mods](https://www.reddit.com/message/compose?to=%2Fr%2FAsianBeauty). The FAQ is a living document and we will answer your question and add it here.**
 

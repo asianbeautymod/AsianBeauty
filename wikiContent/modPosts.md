@@ -55,6 +55,10 @@
 
 ##Mod Welcomes
 
+**[Welcome tag_bitch](https://www.reddit.com/r/AsianBeauty/comments/6duke7/sunday_528_announcement_survey_future_updates_and/)**
+
+**[Welcome jiyounglife, petitoignon, & palimpsestnine](https://www.reddit.com/r/AsianBeauty/comments/5xbt88/welcome_our_three_new_mods_random_chat/)**
+
 **[Welcome printf-username](https://www.reddit.com/r/AsianBeauty/comments/52f9ly/welcome_our_new_mod_uprintfusername/)**
 
 **[Welcome kitty_paw](https://www.reddit.com/r/AsianBeauty/comments/4mjr5e/welcome_our_new_mod_kitty_paw/)**
@@ -79,3 +83,9 @@
 **iamOshawott**
 
 **bunnykisskawaii**
+
+#Discontinued
+
+[Old Rules, discontinued 5/21/17](https://www.reddit.com/r/AsianBeauty/wiki/discontinuedrulesmay2017)
+
+[Old Guidelines, Discontinued 5/21/17](https://www.reddit.com/r/AsianBeauty/wiki/discontinuedguidelinessmay2017)

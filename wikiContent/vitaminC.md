@@ -1,7 +1,7 @@
 #Vitamin C Discussion and Guides
 
 ##Linked Discussions
-* [L-AA Vitamin C Serum Information and FAQ](http://redd.it/2h5n6b)
+* [L-AA Vitamin C Serum Information and FAQ]
 * [Niacinmide and Acids (Including Vitamin C) Are Okay to Use Together](http://redd.it/2vk8e4)
 * [Mega-List: Vitamin C Recommendations](http://redd.it/2ztfqc)
 * [Vitamin C Products: L-AA vs the Derivatives]
@@ -96,7 +96,7 @@ MAP solutions are not pH dependent, and do not need wait times in your routine. 
 ###AP and ATIP###
 
 
-I’m going to talk about both AP and ATIP here because they’re very similar.  Both of these derivatives are fat-soluble.  Because of this, it may penetrate your skin worse than MAP or L-AA depending on the formula.  For these derivatives, it’s better to choose oil-based solutions (which will penetrate) as opposed to emulsions (which tend to be thicker and more creamy and these will sit on the surface of the skin).
+I’m going to talk about both AP and ATIP here because they’re very similar.  Both of these derivatives are fat-soluble.  Because of this, it may penetrate your skin worse than MAP or L-AA depending on the formula.  For these derivatives, it’s better to choose oil-based solutions (which will penetrate) as opposed to emulsions (which tend to be thicker and more creamy and these will sit on the surface of the skin).  
 
 &nbsp;
 

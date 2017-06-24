@@ -60,7 +60,7 @@ If you start a thread for a question that would be better suited in the daily he
 
 We promise it isn't meant to be, it's simply a way to organize our community and let you know how we field simple questions. If you take a look through the daily threads, you'll realize fairly quickly that:
 
-1. **The sheer amount of questions that gets asked daily is immense.** Which is awesome, we love interacting and helping each other out as much as possible! But imagine if each and every question was a standalone thread, it would get pretty congested around here pretty quickly. We have found that if we keep it in one thread, we reach a balance between genuinely wanting to help you and not feeling strung out- and that the majority of users prefer this method. We ask that you try to understand and meet us in thread when asking for our help!
+1. **The sheer amount of questions that gets asked daily is immense.** Which is awesome, we love interacting and helping each other out as much as possible! But imagine if each and every question was a standalone thread, it would get pretty congested around here pretty quickly. We have found that if we keep it in one thread, we reach a balance between genuinely wanting to help you and not feeling strung out- and that the majority of users prefer this method. We ask that you try to understand and meet us in thread when asking for our help!  
 
 2. **The vast majority of questions get answered.** Those that are upvoted have been seen by users who do not know the answer but are hoping to drive attention to it. We all sort by new first, scroll to make sure everything has been answered, and then sort by top specifically to see any questions we may have missed that were trickier or required more responses. If your question is getting upvoted and doesn't yet have an answer, please be patient. If your question remains unanswered after a lengthy period of time, it might be that we just don't know.
 
@@ -85,7 +85,7 @@ Here are some things that can help us help you:
 
  * **What you have tried or looked at so far.** This can be telling for a lot of problems, especially if you are looking to refine a routine. Don't hesitate to overshare with us.
 
- * **Misc Factors:** Skincare is a gender neutral hobby, so oftentimes it isn't relevant to note your gender but if you feel it is pertinent to your question, please feel free to include it. Your **age range** is more likely to come into the equation, as skin may have different needs at different points of one's life. Similarly you may find that **budget, diet, skin tone,** may be useful to know depending on your question.
+ * **Misc Factors:** Skincare is a gender neutral hobby, so oftentimes it isn't relevant to note your gender but if you feel it is pertinent to your question, please feel free to include it. Your **age range** is more likely to come into the equation, as skin may have different needs at different points of one's life. Similarly you may find that **budget, diet, skin tone,** may be useful to know depending on your question.   
 
 
 
@@ -131,7 +131,7 @@ There are a lot of questions that are actually already answered in this sub, it'
 
 ###Product Guides:
 
-[Megathreads](https://www.reddit.com/r/AsianBeauty/wiki/megathreads): Routines, HGs/HFs, Best/Worst of Series and More!
+[Megathreads](https://www.reddit.com/r/AsianBeauty/wiki/megathreads): Routines, HGs/HFs, Best/Worst of Series and More!  
 
 Products For: [Dry/Sensitive/Over-Exfoliated](https://www.reddit.com/r/AsianBeauty/comments/4xwoe1/best_products_for_common_skin_concerns_series_dry/) | [Oily/Acne](https://www.reddit.com/r/AsianBeauty/comments/4vidxl/best_products_for_common_skin_concerns_series/) | [Redness/Irritation/Rosacea](https://www.reddit.com/r/AsianBeauty/comments/4v2uii/best_products_for_common_skin_concerns_series/) | [High Niacinamide](https://www.reddit.com/r/AsianBeauty/comments/4gck4u/spreadsheet_of_commonly_suggested_high/) | [Avoiding Alcohol](https://www.reddit.com/r/AsianBeauty/comments/4s5bv5/a_spreadsheet_for_people_avoiding_alcohol_in/) | [Avoiding Fatty Acids/Alcohol](https://www.reddit.com/r/AsianBeauty/comments/4iun1o/i_have_compiled_a_list_of_products_that_have_no/)  | [Cruelty Free](https://web.archive.org/web/20150423163535/http:/animalrightskorea.org/bad-science/korean-cruelty-free-cosmetics.html)
 

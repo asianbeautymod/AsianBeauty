@@ -1,4 +1,4 @@
-#[Products where the first 3 ingredients are actives by naoti](https://www.reddit.com/r/AsianBeauty/comments/2qsyum/products_where_the_first_few_ingredients_are/?st=j2265wrw&sh=1ffb01d7)
+###Products where the first 3 ingredients are actives [by naoti](https://www.reddit.com/r/AsianBeauty/comments/2qsyum/products_where_the_first_few_ingredients_are/?st=j2265wrw&sh=1ffb01d7)
 
 Only going to list the first 3 ingredients, going through toners/skin, lotions/serums/ampoules/essences and cream at the moment. Character limit reached for this post and apologies to mobile users about the text.
 

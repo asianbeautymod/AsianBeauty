@@ -9,15 +9,15 @@
     distinguish: true
     text: |
         Hello and welcome to the Daily Help Thread! The purpose of the DHT is to ask simple questions, troubleshoot routines, get quick recommendations, prevent the sub from being too cluttered, and to guide new users.
-        
+
         #Getting Started
-        
+
         Please make sure to check out our new [wiki](https://www.reddit.com/r/AsianBeauty/wiki/index) and [AB University](https://www.reddit.com/r/AsianBeauty/wiki/education)!
-        
+
         Remember to search the subreddit first to see if your question has been answered already. Tutorial [here](https://www.reddit.com/r/AsianBeauty/comments/67bgjh/psa_how_to_properly_search_this_or_any_sub/?st=j1xueocy&sh=14303867).
-        
+
         **Where applicable, consider sharing with us the following so we can help you better (*click "Source" below this post if you'd like to copy the formatting*)**
-        
+
         * **Skin Type**:  | **Country/Climate I'm in**:  | **Top Skin Concern**:
         * **Current Routine/Products I'm Using**:
         
@@ -30,27 +30,25 @@
         * [product]
         * [product]
         * [product]
-        
+
         **I specifically [want help with/am looking for a product to/am curious about trying]**...
-        
+
         #Rules:
-        
+
         If questions or comments break the rules or are inappropriate, the report button is the fastest way for the mod team to see it and address the problems.  For example:
-        
-        * Build Me A Routine, r/AsianBeauty! If you need assistance with your routine and need help with adding a product or two or understanding routine order, that’s fine. Please refrain from just stating a skin concern then expecting people to build a routine from scratch.  It is important to do due diligence in understanding your skin type and needs. 
-        
-        * Non-AB questions or comments. Having non-AB products in your routine is totally fine! Getting specific advice/recommendations on a non-AB product not so much 
-        
+
+        * Build Me A Routine, r/AsianBeauty! If you need assistance with your routine and need help with adding a product or two or understanding routine order, that’s fine. Please refrain from just stating a skin concern then expecting people to build a routine from scratch.  It is important to do due diligence in understanding your skin type and needs.
+
+        * Non-AB questions or comments. Having non-AB products in your routine is totally fine! Getting specific advice/recommendations on a non-AB product not so much
+
         * Rude comments and snark. Fairly self explanatory but for more detail, check out our [Posting Guidelines](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines)
-        
+
         * When directing someone to the sidebar: provide specific links. I.e. for someone asking about Allergies or Beginner Guides, link them to the specific subsections within AB University, rather than saying ‘it’s in the sidebar.’
-        
+
         * Finally, a reminder that no one is obligated to answer your questions. If you've repeatedly asked the same question without a response, it may be best to review and see if it can be reworded or if the information is readily available in the sidebar materials. If you have any questions, please contact the [moderators](https://www.reddit.com/message/compose?to=/r/AsianBeauty).
-        
-        
-        **Remember that all skincare is individual and Your Mileage May Vary with recommendations. We are enthusiasts, not doctors, and we cannot provide you with medical advice. Speak to a medical professional if your skin concerns are affecting your well-being.**	 	
-		
-        
+
+
+        **Remember that all skincare is individual and Your Mileage May Vary with recommendations. We are enthusiasts, not doctors, and we cannot provide you with medical advice. Speak to a medical professional if your skin concerns are affecting your well-being.**
 ---
 
     first: "June 21, 2017 4:00 AM"
@@ -85,8 +83,6 @@
         * [product]
         * [product]
         * [product]
-        
-       
 ---
 
     first: "December 18, 2015 4:00 AM"
@@ -106,7 +102,7 @@
     distinguish: true
     text: |
        Post your memes, gifs, hauls, selfies, and fluff just remember to have fun!
-       
+
 ---
 
     first: "January 9, 2016 4:00AM"

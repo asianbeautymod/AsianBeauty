@@ -19,7 +19,7 @@
 
 ---
  #Post Tag Removal
- title (includes): ["haul", "hauls", "fluff", "psa","help", "PSA", "FLUFF", "HAUL", "HAULS"]
+ title (includes): ["[haul]", "[hauls]", "[fluff]", "[psa]"]
  moderators_exempt: true
  action: remove
  comment_stickied: true
@@ -137,57 +137,66 @@
      The above {{kind}} by /u/{{author}} was removed because it contained a possible credit card number. Please investigate immediately.
 
      If the user is doxxing, [ban them](/r/{{subreddit}}/about/banned) and [report them to the reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&amp;subject=Doxxing%20Report:%20%2Fu%2F{{author}}&message=%2Fu%2F{{author}}%20posted%20a%20credit%20card%20number:%20{{permalink}}) immediately.
-
 ---
 #Autosorting for scheduled posts
  author: Automoderator
  set_suggested_sort: new
  type: submission
- title: ["ASK HERE! Daily Help, and Questions:", "Weekly Random Chat", "Rants, Raves, and Mini Reviews", "Glamday", "Weekly Deals"]
+ title: ["ASK HERE! Daily Help, and Questions:"]
 ---
      #Website Blacklist
  domain+body+title: [q-depot.com, proud-tobe-asian.blogspot.jp]
  action: spam
 ---
      #Autoflair Posts
- title (includes): ["Question", "question"]
+ title (includes): ["question"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Question", "question"]
 ---
- title (includes): ["Review", "Reviews", "review", "reviews", "REVIEW", "REVIEWS"]
+ title (includes): ["review", "reviews"]
  moderators_exempt: true
- set_flair: ["Reviews", "review"]
+ priority: 1
+ set_flair: ["Review", "review"]
 ---
- title (includes): ["Swatch", "Swatches", "swatch", "swatches", "SWATCH", "SWATCHES"]
+ title (includes): ["swatch", "swatches"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Swatches", "swatches"]
 ---
- title (includes): ["Discussion", "discussion", "DISCUSSION"]
+ title (includes): ["discussion"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Discussion", "discussion"]
 ---
- title (includes): ["Glamday", "glamday", "GLAMDAY"]
+ title (includes): ["glamday"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Glamday", "glamday"]    
 ---
- title (includes): ["Discovery", "discovery", "DISCOVERY"]
+ title (includes): ["discovery"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Discovery", "discovery"]    
 ---
- title (includes): ["Roundup", "Weekly Roundup", "roundup", "ROUNDUP"]
+ title (includes): ["roundup"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Roundup", "roundup"]    
 ---
- title (includes): ["Deals", "deal", "deals", "Deal", "DEAL", "DEALS"]
+ title (includes): ["deal", "deals"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Deals", "deals"]    
 ---
- title (includes): ["Meetups", "Meetup", "meetup", "meetups", "MEETUP"]
+ title (includes): ["meetup", "meetups"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Meetups", "meetups"]    
 ---
  title (includes): ["Journal", "ABJournal"]
  moderators_exempt: true
+ priority: 1
  set_flair: ["Journal", "journal"]    
 ---
 
@@ -196,6 +205,7 @@
  message: |
      Hello there! We have a [rule](https://www.reddit.com/r/AsianBeauty/wiki/rules#wiki_rules_and_guidelines) that all external link submissions must be accompanied by a comment describing the content of the link. Haul posts must also have a comment listing the contents of the haul. This is just a reminder to post a description comment or your post may be removed!
 ---
+#no flair removal
  moderators_exempt: true
  is_edited: false
  ~title:

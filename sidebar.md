@@ -80,10 +80,6 @@ Each post starts at 00:00 EST
 * Daily Help Thread
 * Now you can post FoTD any day of the week! [Please read the rules on how.](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines#wiki_fotd)
 
-**Monday** 
-
-**Tuesday**
-
 **Wednesday**
 
 * Rant, Raves, and Mini Reviews

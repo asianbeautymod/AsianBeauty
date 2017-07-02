@@ -80,14 +80,6 @@ Each post starts at 00:00 EST
 * Daily Help Thread
 * Now you can post FoTD any day of the week! [Please read the rules on how.](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines#wiki_fotd)
 
-**Monday**
-
-* Weekly Deals
-
-**Tuesday**
-
-* Discovery Tuesday: New finds, discoveries
-
 **Wednesday**
 
 * Rant, Raves, and Mini Reviews
@@ -100,20 +92,20 @@ Each post starts at 00:00 EST
 
 **Friday**
 
-* Random Chat
+* Random Chat 
 
-**Saturday**
+**Saturday** 
 
 * Fluff Thread Day
 
 * Random Chat
 
-**Sunday**
+**Sunday** 
 
 * Weekly Roundup + announcements
 
 ##Want to be a mod?
-We are recruiting volunteers to join the team. This is a serious role that takes many hours per week.
+We are recruiting volunteers to join the team. This is a serious role that takes many hours per week. 
 
 We actively recruit people from diverse time zones and backgrounds, who have good problem solving skills, diplomacy, and who love to learn new things.
 [Apply here!](http://goo.gl/forms/drnc2Av9fk)
@@ -127,3 +119,5 @@ We actively recruit people from diverse time zones and backgrounds, who have goo
 
 ***
 ^If ^you ^have ^any ^suggestions ^or ^things ^to ^add, ^please [^message ^the ^mods! ](http://bit.ly/1Ih1E67) ^Note ^that ^abusive ^or ^rude ^treatment ^of ^mods ^is ^not ^tolerated.
+
+

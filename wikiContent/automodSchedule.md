@@ -9,46 +9,49 @@
     distinguish: true
     text: |
         Hello and welcome to the Daily Help Thread! The purpose of the DHT is to ask simple questions, troubleshoot routines, get quick recommendations, prevent the sub from being too cluttered, and to guide new users.
-
+        
         #Getting Started
-
+        
         Please make sure to check out our new [wiki](https://www.reddit.com/r/AsianBeauty/wiki/index) and [AB University](https://www.reddit.com/r/AsianBeauty/wiki/education)!
-
+        
         Remember to search the subreddit first to see if your question has been answered already. Tutorial [here](https://www.reddit.com/r/AsianBeauty/comments/67bgjh/psa_how_to_properly_search_this_or_any_sub/?st=j1xueocy&sh=14303867).
-
+        
         **Where applicable, consider sharing with us the following so we can help you better (*click "Source" below this post if you'd like to copy the formatting*)**
-
+        
         * **Skin Type**:  | **Country/Climate I'm in**:  | **Top Skin Concern**:
         * **Current Routine/Products I'm Using**:
         
         **AM**
+        
         * [product]
         * [product]
         * [product]
         
         **PM**
+        
         * [product]
         * [product]
         * [product]
-
+        
         **I specifically [want help with/am looking for a product to/am curious about trying]**...
-
+        
         #Rules:
-
+        
         If questions or comments break the rules or are inappropriate, the report button is the fastest way for the mod team to see it and address the problems.  For example:
-
-        * Build Me A Routine, r/AsianBeauty! If you need assistance with your routine and need help with adding a product or two or understanding routine order, that’s fine. Please refrain from just stating a skin concern then expecting people to build a routine from scratch.  It is important to do due diligence in understanding your skin type and needs.
-
-        * Non-AB questions or comments. Having non-AB products in your routine is totally fine! Getting specific advice/recommendations on a non-AB product not so much
-
+        
+        * Build Me A Routine, r/AsianBeauty! If you need assistance with your routine and need help with adding a product or two or understanding routine order, that’s fine. Please refrain from just stating a skin concern then expecting people to build a routine from scratch.  It is important to do due diligence in understanding your skin type and needs. 
+        
+        * Non-AB questions or comments. Having non-AB products in your routine is totally fine! Getting specific advice/recommendations on a non-AB product not so much 
+        
         * Rude comments and snark. Fairly self explanatory but for more detail, check out our [Posting Guidelines](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines)
-
+        
         * When directing someone to the sidebar: provide specific links. I.e. for someone asking about Allergies or Beginner Guides, link them to the specific subsections within AB University, rather than saying ‘it’s in the sidebar.’
-
+        
         * Finally, a reminder that no one is obligated to answer your questions. If you've repeatedly asked the same question without a response, it may be best to review and see if it can be reworded or if the information is readily available in the sidebar materials. If you have any questions, please contact the [moderators](https://www.reddit.com/message/compose?to=/r/AsianBeauty).
-
-
+        
+        
         **Remember that all skincare is individual and Your Mileage May Vary with recommendations. We are enthusiasts, not doctors, and we cannot provide you with medical advice. Speak to a medical professional if your skin concerns are affecting your well-being.**
+        
 ---
 
     first: "June 21, 2017 4:00 AM"
@@ -83,6 +86,8 @@
         * [product]
         * [product]
         * [product]
+        
+       
 ---
 
     first: "December 18, 2015 4:00 AM"
@@ -102,7 +107,7 @@
     distinguish: true
     text: |
        Post your memes, gifs, hauls, selfies, and fluff just remember to have fun!
-
+       
 ---
 
     first: "January 9, 2016 4:00AM"
@@ -190,33 +195,4 @@
      We've created a meetup tag just for you as well as a place in the [wiki](https://www.reddit.com/r/AsianBeauty/wiki/meetups)! Send a message to the mods [here](https://www.reddit.com/message/compose?to=/r/AsianBeauty) to add your group to the wiki!
 
      This post repeats every two weeks! 
-
 ---
-
-    first: "June 13, 2017 4:00 AM"
-    repeat: 1 week
-    sticky: true
-    title: "New Discoveries"
-    distinguish: true
-    text: |
-        Have you found a new product that you want to tell everyone about? Got a new awesome AB hack, tips, or tricks to share? Share them all in one place! This is not a place to share sale/deal updates. 
-
-
----
-    first: "June 12, 2017 4:00 AM"
-    repeat: 1 week
-    sticky: true
-    title: "Weekly Deals {{date %B %d, %Y}}"
-    distinguish: true
-    text: |
-        
-            Have you heard of an awesome flash sale? Do you have a discount code or deal you think everyone should know about? Post the link with a brief description here to share with the community.
-            This link will be added to the sidebar for easy desktop navigation.
-            
-            ###Please include the following:
-            
-            *Vendor/Store:*
-            *Dates Active:*
-            *Link*
-            
-            Note: This is an unpinned thread, to search for the latest deals thread click [here](https://www.reddit.com/r/AsianBeauty/search?q=+flair:deals&restrict_sr=on&sort=new&t=all&feature=legacy_search).

@@ -4,7 +4,7 @@
 ##Routine Megathreads
 * [Apr 2017 Sleeping Pack. Eye Cream, Exfoliant from Apr 2017 Routine Megathread](http://bit.ly/2prjbFj)
 * [Apr 2017 Routine Megathread](http://bit.ly/2oI5JQa)
-* [Jan 2017 Routine Megathread](http://bit.ly/2puQfOP/)
+* [Jan 2017 Routine Megathread](http://bit.ly/2puQfOP)
 * [Oc 2016 Routine Megathread](http://bit.ly/2qp56HU)
 * [Jul 2016 Routine Megathread](http://bit.ly/2pI3uwB)
 * [Apr 2016 Routine Megathread](http://bit.ly/2oRXzjF)

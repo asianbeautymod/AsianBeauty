@@ -1,15 +1,23 @@
+#####[](https://www.reddit.com/r/asianbeauty/submit)
+* [](#guidelinesbutton)
+* [](https://goo.gl/UhcQFk)[](https://goo.gl/2DF5AD)  
+* [](https://goo.gl/fTZmC7)[](https://goo.gl/MqMMSX)
+* [](https://goo.gl/jGHY17)[](https://goo.gl/PUYyFx)
+* [](https://goo.gl/xmJ7Lh)[](https://goo.gl/rBRZaa)
+* [](https://goo.gl/26kaH9)
+
 ##New? Start Here!
 Before posting, you may want to search and read below to see if your question has already been answered:
 
-* [New User Guide](http://bit.ly/2p8S0Rf)
+♥ [New User Guide](http://bit.ly/2p8S0Rf)
 
-* [Educate yourself at AB University!](http://bit.ly/2pn1Qxa)
+♥ [Educate yourself at AB University!](http://bit.ly/2pn1Qxa)
 
-* [How to use Reddit's search](http://bit.ly/2pfeA8U)
+♥ [How to use Reddit's search](http://bit.ly/2pfeA8U)
 
-* [How to ask for help](http://bit.ly/2pi54nx)
+♥ [How to ask for help](http://bit.ly/2pi54nx)
 
-* [Common Acronyms on AB](http://bit.ly/2qhT86M)
+♥ [Common Acronyms on AB](http://bit.ly/2qhT86M)
 
 ***
 ♥ [Join our Discord Server to start chatting](https://discord.gg/ab)
@@ -53,23 +61,20 @@ There are special rules for Self-promotion Content as well as for Businesses, pl
 
 ##Filter Posts
 [MOD POST](https://www.reddit.com/r/AsianBeauty/search?q=+flair:mod-post&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[REVIEW](https://www.reddit.com/r/AsianBeauty/search?q=+flair:review&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[QUESTION](https://www.reddit.com/r/AsianBeauty/search?q=+flair:question&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[SWATCHES](https://www.reddit.com/r/AsianBeauty/search?q=+flair:swatches&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[REVIEW&SWATCH](https://www.reddit.com/r/AsianBeauty/search?q=+flair:review&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [DISCUSSION](https://www.reddit.com/r/AsianBeauty/search?q=+flair:discussion&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [BUSINESS](https://www.reddit.com/r/AsianBeauty/search?q=+flair:business&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[DISCOVERY](https://www.reddit.com/r/AsianBeauty/search?q=+flair:discovery&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[MEETUPS](https://www.reddit.com/r/AsianBeauty/search?q=+meetups:meetups&restrict_sr=on&sort=new&t=all&feature=legacy_search)
-[JOURNAL](https://www.reddit.com/r/AsianBeauty/search?q=+flair:journal&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[DEALS](https://www.reddit.com/r/AsianBeauty/search?q=+flair:deals&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[MEETUPS](https://www.reddit.com/r/AsianBeauty/search?q=+flair:meetups&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[NEWS](https://www.reddit.com/r/AsianBeauty/search?q=+flair:news&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[FOTD](https://www.reddit.com/r/AsianBeauty/search?q=+flair:fotd&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[RESEARCH](https://www.reddit.com/r/AsianBeauty/search?q=+flair:research&restrict_sr=on&sort=new&t=all&feature=legacy_search)
+[ORIGINAL CONTENT](https://www.reddit.com/r/AsianBeauty/search?q=+flair:oc&restrict_sr=on&sort=new&t=all&feature=legacy_search)
 [SHOW ALL](http://goo.gl/9jxY49)
 
 ##Filter-Out Posts
-[QUESTION](http://qu.reddit.com/r/AsianBeauty/#qu)
-[SWATCHES](http://sw.reddit.com/r/AsianBeauty/#sw)
-[HAULS](http://ha.reddit.com/r/AsianBeauty/#ha)
+[FOTD](http://fo.reddit.com/r/AsianBeauty/#fo)
 [BUSINESS](http://rq.reddit.com/r/AsianBeauty/#bs)
-[FLUFF](http://fl.reddit.com/r/AsianBeauty/#fl)
-[FILTER ALL](http://al.reddit.com/r/AsianBeauty/#al)
 
 
 ##Posting Schedule
@@ -78,7 +83,14 @@ Each post starts at 00:00 EST
 **Daily**
 
 * Daily Help Thread
-* Now you can post FoTD any day of the week! [Please read the rules on how.](https://www.reddit.com/r/AsianBeauty/wiki/postguidelines#wiki_fotd)
+
+**Monday** 
+
+* Weekly Deals
+
+**Tuesday**
+
+* Discovery Tuesday: New finds, discoveries 
 
 **Wednesday**
 
@@ -119,5 +131,4 @@ We actively recruit people from diverse time zones and backgrounds, who have goo
 
 ***
 ^If ^you ^have ^any ^suggestions ^or ^things ^to ^add, ^please [^message ^the ^mods! ](http://bit.ly/1Ih1E67) ^Note ^that ^abusive ^or ^rude ^treatment ^of ^mods ^is ^not ^tolerated.
-
 

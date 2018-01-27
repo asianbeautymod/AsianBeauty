@@ -2,14 +2,16 @@
 
 
 ##Routine Megathreads
-* [Apr 2017 Sleeping Pack. Eye Cream, Exfoliant from Apr 2017 Routine Megathread](http://bit.ly/2prjbFj)
+* [Jan 2018 Routine Megathread](https://goo.gl/vszVw4)
+* [Oct 2017 Routine Megathread](https://goo.gl/Vduuc1)
+* [Jul 2017 Routine Megathread](https://goo.gl/grSo53)
 * [Apr 2017 Routine Megathread](http://bit.ly/2oI5JQa)
 * [Jan 2017 Routine Megathread](http://bit.ly/2puQfOP/)
 * [Oc 2016 Routine Megathread](http://bit.ly/2qp56HU)
 * [Jul 2016 Routine Megathread](http://bit.ly/2pI3uwB)
 * [Apr 2016 Routine Megathread](http://bit.ly/2oRXzjF)
 * [Jan 2016 TOP HG Products from Jan 2016 Routine Megathread](http://bit.ly/2puKYXk)
-* [Jan 2016 Routine Megathread](http://bit.ly/2prdUxs)
+* [Jan 2016 Routine Megathread](http://bit.ly/2prdUxs) 
 * [Nov 2015 Routine Thread](http://bit.ly/2pI4Cjs)
 * [Oct 2015 Post Your Routine Megathread October 2015](http://bit.ly/2oVe3It)
 * [Sep 2015 Morning vs Night Routine](http://bit.ly/2oV3B3F)
@@ -35,7 +37,7 @@
 * [Jun 24 2013 Holy Grail List for Asian Skincare](http://bit.ly/2pfcAPP) (user submitted, thank you, /u/elladora)
 
 ##Holy FAIL
-* [January 2017 Holy Grails and Holy Fails - By Product Type!](http://bit.ly/2qfXpar) (user submitted, thanks /u/Maplebee92)
+* [Jan 2017 Holy Grails and Holy Fails - By Product Type!](http://bit.ly/2qfXpar) (user submitted, thanks /u/Maplebee92)
 * [Sep 28 Latest Holy Fails](http://bit.ly/2oS7TYF) (user submitted, thanks /u/caramel_waffles)
 * [June 01 2016 Summer 2016 Holy Fail](http://bit.ly/2oRK43o)
 * [Oct 21 2015 Holy Fail Megathread Fall 2015](http://bit.ly/2qfMVYz) (user submitted, thank you, /u/MaddieEms)
@@ -43,8 +45,37 @@
 * [Feb 04 2015 What popular products did not work for you](http://bit.ly/2oRK8Aa) (user submitted, thank you, /u/MaddieEms)
 * [Mar 28 2014 Worst Products you wouldn't recommend to anyone](http://bit.ly/2puXA0z) (user submitted, thank you, /u/sharkus_reincarnus)
 
+##Best/Worst Threads by /u/Maplebee92
+
+* [December 2017 - Best/Worst of Mizon](https://goo.gl/CBkMU2)
+* [November 2017 - Best/Worst of Etude House](https://goo.gl/ePAsZx) 
+* [November 2017 - Best/Worst of Skinfood ](https://goo.gl/VEvM2u)
+* [November 2017 - Best/Worst of Hada Labo](https://goo.gl/qZDd9y)
+* [November 2017 - Best/Worst of Innisfree](https://goo.gl/PTtPZ4)
+* [October 2017 - Best/Worst of Cosrx](https://goo.gl/c6ebVj)
+* [October 2017 - Best/Worst of Hanbang](https://goo.gl/Jw5nqE)
+* [October 2017 - Best/Worst of A'pieu](https://goo.gl/f2vJmZ)
+* [September 2017 - Best/Worst of Snail](https://goo.gl/f2vJmZ)
+* [September 2017 - Best/Worst of Bee Products](https://goo.gl/Ta2fGX)
+* [September 2017 - Best/Worst of Ceramide Products](https://goo.gl/g9dXKY)
+* [September 2017 - Best/Worst of Exfoliating Acids](https://goo.gl/LpGZPf)
+* [August 2017 - Best/Worst of Niacinamide and Future Schedule](https://goo.gl/JxV1zm)
+* [August 2017 - Best/Worst of Products for Combination Skin](https://goo.gl/15NkWTZ)
+* [August 2017 - Best/Worst of Products for Redness/Hyperpigmentation](https://goo.gl/8mhtiy)
+* [August 2017 - Best/Worst of Products for Acne-Prone Skin](https://goo.gl/qESZdR)
+* [July 2017 - Best/Worst of Products for Anti-Aging](https://goo.gl/ewBMRv)
+* [July 2017 - Best/Worst of Products for Dry Skin](https://goo.gl/uWT4JB)
+* [July 2017 - Best/Worst of Products for Oily Skin](https://goo.gl/YJe2bi)
+* [June 2017 - Best/Worst of South Asia](https://goo.gl/Yo7yQf)
+* [May 2017 - Best/Worst of SEA](https://goo.gl/BX7qMs)
+* [May 2017 - Best/Worst of Japan](https://goo.gl/ZgF5Wa)
+
+
+
+
 ##Best and Worst of Products/Brands
-* [Best/Worst Threads by /u/Maplebee92(Locations: Japan, SEA, China+Taiwan, South Asia,Price Range: Luxury, Affordable, Little Known, Organic/Natural, Skin Type: Oily, Dry, Combo, Aging, Acne,Dehydrated, Hyperpigmentation](https://www.reddit.com/r/AsianBeauty/comments/67i4sz/psadiscussion_bestworst_of_thread_launch/?st=j2kmeazy&sh=190c53af)
+
+* [Jan 2018 Best & Worst of Japanese Brands](https://goo.gl/QFdGJL) (user submitted, thank you /u/maplebee92)
 * [Apr 2017 Best & Worst of Curel](http://bit.ly/2oRV40I)
 * [May 16 2016 Best & Worst of Sheet Masks](http://bit.ly/2prlmbV) *Results summarized [here](http://bit.ly/2puSD8k)
 * [Feb 01 2016 Best and Worst Cushion Foundations](http://bit.ly/2qp4fGW) (x-posted from /r/makeupaddiction)
@@ -107,5 +138,11 @@
 ##Where in the World
 * [Hong Kong](https://www.reddit.com/r/AsianBeauty/comments/6ajt7r/where_in_the_world_hong_kong_shopping_guide/?st=j2km9oy7&sh=5ebbfc85)
 
-## Product Scent Megathread
+## Product Scent Megathread 
 * [**Apr 14 2016 AB Product Scent Megathread**](http://bit.ly/2pv453v) (user submitted thank you /u/supersoigne)
+
+##Masks
+* June 25 2017 [Favorite sheet masks and why?](https://www.reddit.com/r/AsianBeauty/comments/6jeli3/discussion_what_are_your_favorite_sheet_masks_and/)
+* May 31 2017 [Favorite non sheet masks?](https://www.reddit.com/r/AsianBeauty/comments/6ekwl7/discussion_favorite_masks_that_arent_sheet_masks/)
+* Dec 27 2016 [Favorite non sheet masks?](https://www.reddit.com/r/AsianBeauty/comments/5klli7/whats_your_favorite_nonsheet_mask/)
+ 
